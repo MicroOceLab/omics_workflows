@@ -1,0 +1,1075 @@
+# Constructed from biom file
+#OTU ID	SRR12442322	SRR12442323	SRR12442324	SRR12442325	SRR12442331	SRR12442342	SRR12442353	SRR12442354	taxonomy
+AY485520.1.1762	7.0	14.0	14.0	0.0	5.0	1764.0	87.0	1534.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Cymatosirales; f__Cymatosiraceae
+HQ912569.1.1422	36.0	33.0	19.0	1.0	0.0	2427.0	170.0	698.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Cymatosirales; f__Cymatosiraceae
+DQ386760.1.1531	88.0	106.0	477.0	1.0	12.0	641.0	426.0	437.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Kareniaceae; g__Karlodinium; s__uncultured_marine
+KJ760745.1.1794	4.0	0.0	57.0	0.0	5.0	407.0	28.0	36.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_Syndiniales
+JF826336.1.1604	1.0	1.0	259.0	7.0	0.0	78.0	151.0	3.0	d__Eukaryota
+AY343928.1.1812	24.0	63.0	73.0	277.0	75.0	0.0	6.0	10.0	d__Eukaryota; p__Picozoa; c__Picozoa; o__Picozoa; f__Picozoa; g__Picozoa; s__uncultured_rhodophyte
+AF290539.1.1815	26.0	73.0	2.0	134.0	6.0	626.0	10.0	8.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Cryothecomonas; s__uncultured_eukaryote
+KJ759275.1.1806	17.0	25.0	38.0	138.0	199.0	2.0	3.0	17.0	d__Eukaryota; p__Picozoa; c__Picomonadida; o__Picomonadida; f__Picomonadida; g__Picomonadida; s__uncultured_eukaryote
+AF145226.1.1782	66.0	73.0	265.0	0.0	0.0	3.0	1.0	5.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__uncultured_eukaryote
+KJ763331.1.1798	36.0	49.0	15.0	4.0	133.0	41.0	14.0	273.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Chrysochromulinaceae; g__Chrysochromulina
+KM055115.1.1791	1.0	17.0	34.0	10.0	45.0	186.0	33.0	28.0	d__Eukaryota; p__Chlorophyta; c__Trebouxiophyceae; o__Trebouxiophyceae; f__Trebouxiophyceae; g__Trebouxiophyceae; s__Picochlorum_maculatum
+DQ222878.1.1801	20.0	16.0	44.0	149.0	31.0	0.0	0.0	0.0	d__Eukaryota; p__Picozoa; c__Picomonadida
+JX457432.1.1523	0.0	3.0	27.0	1.0	11.0	300.0	20.0	18.0	d__Eukaryota; p__Chlorophyta; c__Trebouxiophyceae; o__Trebouxiophyceae; f__Trebouxiophyceae; g__Trebouxiophyceae
+KJ763476.1.1798	46.0	99.0	107.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_eukaryote
+KJ763293.1.1793	172.0	86.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales
+AB191410.1.1725	0.0	0.0	0.0	0.0	0.0	65.0	201.0	6.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Ebriacea; f__Ebriacea; g__Ebria; s__uncultured_eukaryote
+KF129971.1.1755	45.0	4.0	2.0	0.0	0.0	4.0	139.0	2.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I
+KC488575.1.1712	46.0	79.0	2.0	28.0	60.0	1.0	1.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Thaumatomonadida; f__Thaumatomonadida; g__D2P04A09; s__uncultured_Rhizaria
+AF166381.1.1793	0.0	0.0	6.0	0.0	5.0	162.0	53.0	11.0	d__Eukaryota; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrales; f__Chlorodendrales; g__Tetraselmis; s__Tetraselmis_sp.
+KF129681.1.1759	34.0	147.0	0.0	0.0	0.0	1.0	12.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+JF791095.1.1777	0.0	7.0	11.0	0.0	1.0	7.0	38.0	85.0	d__Eukaryota; p__Kathablepharidae; c__Kathablepharidae; o__Kathablepharidae; f__Kathablepharidaceae; g__Leucocryptos; s__Leucocryptos_marina
+KJ763145.1.1796	98.0	46.0	9.0	90.0	2.0	0.0	22.0	2.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KF129850.1.1750	58.0	113.0	3.0	2.0	5.0	5.0	0.0	5.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I
+AY129046.1.1799	27.0	152.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__Amoebophrya_sp.
+KX532602.1.1337	74.0	40.0	83.0	20.0	0.0	1.0	38.0	15.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium; s__uncultured_marine
+KJ758266.1.1799	166.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KF129796.1.1759	25.0	33.0	2.0	36.0	76.0	1.0	9.0	27.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales; g__AI5F14RJ2A07; s__uncultured_eukaryote
+KX532264.1.1334	55.0	31.0	16.0	18.0	0.0	0.0	9.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KC583018.1.1797	23.0	64.0	0.0	18.0	44.0	0.0	16.0	5.0	d__Eukaryota; p__MAST-7; c__MAST-7B; o__MAST-7B; f__MAST-7B; g__MAST-7B; s__uncultured_eukaryote
+AM779755.1.1802	1.0	12.0	5.0	12.0	105.0	0.0	2.0	2.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales
+AJ535175.1.1805	4.0	3.0	1.0	118.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Rhizosolenids; g__Leptocylindrus; s__Leptocylindrus_danicus
+FR874679.1.1789	0.0	14.0	5.0	0.0	12.0	0.0	7.0	73.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_Syndiniales
+KF130605.1.1762	12.0	8.0	0.0	27.0	88.0	0.0	0.0	4.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Chrysochromulinaceae; g__Chrysochromulina; s__uncultured_eukaryote
+KF130565.1.1758	39.0	59.0	0.0	0.0	0.0	1.0	29.0	31.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae
+KU843872.1.1504	0.0	11.0	26.0	0.0	3.0	52.0	14.0	2.0	d__Eukaryota; p__Chlorophyta; c__Trebouxiophyceae; o__Trebouxiophyceae; f__Trebouxiophyceae; g__Trebouxiophyceae; s__Picochlorum_maculatum
+AY851300.1.1802	43.0	49.0	3.0	8.0	23.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiophyceae; f__Prymnesiophyceae; g__Phaeocystis; s__Phaeocystis_globosa
+EU793380.1.1676	13.0	47.0	39.0	0.0	4.0	0.0	2.0	4.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_Syndiniales
+KJ763128.1.1798	5.0	74.0	4.0	0.0	0.0	11.0	7.0	5.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales; f__Peridiniales; g__Heterocapsa
+JF489974.1.1778	1.0	96.0	0.0	0.0	0.0	0.0	1.0	5.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_calcitrans
+KX602084.1.1656	29.0	33.0	25.0	0.0	2.0	2.0	5.0	3.0	d__Eukaryota; p__MAST-4; c__MAST-4; o__MAST-4; f__MAST-4; g__MAST-4; s__uncultured_eukaryote
+KJ759477.1.1802	123.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+AF411273.1.1792	0.0	0.0	0.0	0.0	0.0	73.0	14.0	1.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__Cercozoa_sp.
+KF129692.1.1759	9.0	9.0	17.0	3.0	42.0	2.0	3.0	19.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Chrysochromulinaceae; g__Chrysochromulina; s__uncultured_eukaryote
+AB948147.1.1764	1.0	0.0	8.0	0.0	0.0	11.0	10.0	109.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema; s__Skeletonema_menzellii
+KF129865.1.1761	3.0	38.0	14.0	0.0	11.0	3.0	3.0	17.0	d__Eukaryota; p__Dinoflagellata
+AB275051.1.1738	0.0	0.0	0.0	0.0	0.0	1.0	0.0	61.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured
+KC583012.1.1800	10.0	9.0	8.0	2.0	78.0	1.0	12.0	4.0	d__Eukaryota; p__MAST-4; c__MAST-4; o__MAST-4; f__MAST-4; g__MAST-4; s__uncultured_eukaryote
+KF130609.1.1753	0.0	16.0	15.0	0.0	2.0	101.0	28.0	10.0	d__Eukaryota; p__Chlorophyta; c__Trebouxiophyceae; o__Trebouxiophyceae; f__Trebouxiophyceae; g__Trebouxiophyceae
+KJ759397.1.1799	71.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KJ759475.1.1801	0.0	14.0	1.0	0.0	0.0	4.0	4.0	45.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_III; g__Syndiniales_Group_III; s__uncultured_marine
+KJ760683.1.1795	1.0	7.0	12.0	0.0	16.0	10.0	0.0	28.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__marine_metagenome
+KY054986.1.1708	0.0	19.0	13.0	0.0	3.0	52.0	12.0	5.0	d__Eukaryota; p__Chlorophyta; c__Trebouxiophyceae
+KX532316.1.1337	16.0	55.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__eukaryote_clone
+GU825016.1.1204	12.0	5.0	2.0	10.0	55.0	2.0	0.0	16.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales
+GU824785.1.1203	8.0	12.0	5.0	9.0	66.0	3.0	5.0	14.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales
+FN690365.1.1703	6.0	26.0	0.0	34.0	1.0	1.0	4.0	1.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured
+KF130229.1.1762	12.0	47.0	4.0	20.0	43.0	1.0	2.0	8.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Chrysochromulinaceae; g__Chrysochromulina; s__uncultured_eukaryote
+GU822961.1.1400	6.0	14.0	0.0	35.0	7.0	3.0	1.0	3.0	d__Eukaryota; p__Labyrinthulomycetes; c__uncultured; o__uncultured; f__uncultured; g__uncultured; s__uncultured_stramenopile
+KX532313.1.1340	13.0	18.0	10.0	8.0	22.0	0.0	0.0	1.0	d__Eukaryota; p__MAST-4; c__MAST-4; o__MAST-4; f__MAST-4; g__MAST-4; s__uncultured_eukaryote
+KF129652.1.1773	4.0	20.0	0.0	38.0	21.0	0.0	0.0	3.0	d__Eukaryota; p__Labyrinthulomycetes; c__uncultured; o__uncultured; f__uncultured; g__uncultured; s__uncultured_eukaryote
+FJ973362.1	26.0	37.0	0.0	0.0	5.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta; f__Chlorarachniaceae
+KF129636.1.1772	13.0	27.0	4.0	1.0	67.0	1.0	11.0	6.0	d__Eukaryota; p__MAST-4; c__MAST-4; o__MAST-4; f__MAST-4; g__MAST-4; s__uncultured_eukaryote
+KF130190.1.1760	4.0	10.0	9.0	18.0	5.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-7; c__MAST-7B; o__MAST-7B; f__MAST-7B; g__MAST-7B; s__uncultured_eukaryote
+JX188346.1.1760	4.0	13.0	1.0	2.0	10.0	7.0	2.0	22.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+AY256257.1.1224	0.0	0.0	0.0	0.0	0.0	15.0	7.0	35.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Pseudo-nitzschia; s__uncultured_stramenopile
+KF129663.1.1757	8.0	19.0	0.0	0.0	16.0	3.0	2.0	44.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales; g__OLI16029; s__uncultured_eukaryote
+KJ763454.1.1804	36.0	32.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KF130458.1.1760	26.0	36.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KM516201.1.1600	2.0	2.0	0.0	0.0	0.0	2.0	12.0	35.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__Mataza_sp.
+KJ763194.1.1798	13.0	33.0	12.0	0.0	0.0	0.0	0.0	4.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae
+AY620352.1.1266	0.0	2.0	0.0	0.0	0.0	4.0	21.0	23.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Protaspa; s__uncultured_Cercozoa
+DQ386748.1.1523	7.0	40.0	9.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodinium_clade; g__Paragymnodinium; s__uncultured_eukaryote
+KF130213.1.1750	3.0	3.0	0.0	0.0	0.0	1.0	3.0	45.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales
+KU743755.1.1795	10.0	23.0	0.0	0.0	2.0	3.0	7.0	10.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Chrysochromulinaceae; g__Chrysochromulina; s__uncultured_eukaryote
+KX611425.1.1570	9.0	44.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_mannaii
+AY775284.1.1790	14.0	34.0	1.0	0.0	0.0	4.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__Amoebophrya_sp.
+KF130513.1.1764	17.0	28.0	0.0	1.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta; f__Chlorarachniophyta; g__Minorisa; s__uncultured_eukaryote
+KJ763888.1.1810	44.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Retaria; c__Polycystinea; o__Spumellaria; f__Spumellaria; g__Larcopyle; s__Larcopyle_butschlii
+MH071711.1.1679	8.0	9.0	8.0	0.0	0.0	3.0	2.0	27.0	d__Eukaryota; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrales; f__Chlorodendrales; g__Tetraselmis; s__Tetraselmis_sp.
+AY665034.1.1752	7.0	46.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_eukaryote
+KJ763326.1.1799	33.0	16.0	0.0	2.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KF130428.1.1753	6.0	6.0	3.0	2.0	25.0	0.0	0.0	6.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales
+KJ760603.1.1795	17.0	0.0	0.0	0.0	0.0	0.0	30.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KJ763037.1.1797	17.0	10.0	1.0	11.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium; s__uncultured_eukaryote
+EF526976.1.1804	0.0	2.0	0.0	0.0	0.0	1.0	0.0	41.0	d__Eukaryota; p__Chlorophyta
+JQ782067.1.1801	3.0	0.0	3.0	36.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Rhizosolenids; g__Leptocylindrus; s__uncultured_stramenopile
+AY885027.1.1271	7.0	54.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALV-2_Guillou_II.39
+AB252746.1.1726	9.0	16.0	6.0	0.0	0.0	8.0	9.0	23.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+GU823144.1.1205	0.0	1.0	37.0	0.0	0.0	7.0	0.0	4.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Pseudo-nitzschia; s__uncultured_stramenopile
+KC582902.1.1792	0.0	0.0	0.0	0.0	33.0	2.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I
+KM067425.1.1568	15.0	8.0	0.0	0.0	0.0	1.0	3.0	15.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Cryothecomonas
+KM870758.1.1730	2.0	32.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Chlorophyceae; o__Sphaeropleales; f__Sphaeropleales; g__Dictyococcus; s__uncultured_eukaryote
+FLMP01003835.956.2747	5.0	38.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__seawater_metagenome
+AB246744.1.1758	2.0	0.0	40.0	0.0	0.0	0.0	0.0	5.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales; f__Peridiniales; g__Blixaea; s__Blixaea_quinquecornis
+AY426835.1.1803	1.0	2.0	13.0	11.0	12.0	0.0	0.0	0.0	d__Eukaryota; p__Picozoa; c__Picozoa; o__Picozoa; f__Picozoa; g__Picozoa; s__uncultured_marine
+AB466287.1.1730	39.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniales; f__Polykrikaceae; g__Polykrikos; s__Polykrikos_schwartzii
+JF791085.1.1777	10.0	18.0	2.0	0.0	0.0	0.0	2.0	4.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Kareniaceae; g__Karlodinium; s__uncultured_dinoflagellate
+KJ763241.1.1797	31.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__unclassified_MALV_1
+KC771151.1.1809	4.0	13.0	0.0	20.0	0.0	38.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Cryothecomonas; s__uncultured_eukaryote
+KJ763708.1.1799	1.0	3.0	0.0	0.0	0.0	0.0	1.0	34.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae; o__uncultured; f__uncultured; g__uncultured; s__uncultured_marine
+KF129956.1.1743	8.0	5.0	17.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_eukaryote
+KF620983.1.1801	8.0	21.0	8.0	0.0	1.0	0.0	0.0	1.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiophyceae; f__Prymnesiophyceae; g__Phaeocystis; s__Haptophyta_environmental
+EU851173.1.1731	6.0	4.0	0.0	5.0	4.0	7.0	5.0	0.0	d__Eukaryota; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Thraustochytriaceae; g__Aplanochytrium; s__Aplanochytrium_sp.
+AF293685.1	23.0	12.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Ctenophora; g__Thalassocalyce; s__Thalassocalyce
+KJ762999.1.1800	3.0	8.0	10.0	0.0	1.0	0.0	3.0	3.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Chrysochromulinaceae; g__Chrysochromulina
+FJ467491.1.1211	23.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodinium_clade; g__Erythropsidinium; s__Erythropsidinium_agile
+KF129794.1.1759	1.0	2.0	0.0	0.0	28.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+KF130052.1.1757	8.0	24.0	1.0	0.0	5.0	8.0	21.0	2.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+AY664959.1.1752	12.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I
+AJ535178.1.1801	16.0	11.0	0.0	0.0	0.0	2.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Rhizosolenids; g__Rhizosolenia; s__Rhizosolenia_similoides
+KP187826.1.1206	9.0	18.0	0.0	0.0	0.0	4.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Protaspa
+KY980089.1.1695	3.0	20.0	2.0	5.0	0.0	1.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Rhizosolenids; g__Rhizosolenia; s__Rhizosolenia_setigera
+KJ762927.1.1798	20.0	18.0	0.0	0.0	0.0	2.0	5.0	0.0	d__Eukaryota
+KP790150.1.1330	33.0	0.0	0.0	0.0	0.0	3.0	7.0	0.0	d__Eukaryota; p__Dinoflagellata
+KR535601.1.1799	36.0	1.0	6.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+DQ514876.1.1765	0.0	0.0	4.0	0.0	0.0	0.0	1.0	28.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__Thalassiosira_minima
+KJ762869.1.1798	15.0	1.0	0.0	9.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium
+JQ420115.1.1783	5.0	21.0	0.0	0.0	0.0	1.0	0.0	1.0	d__Eukaryota; p__Chlorophyta; c__Prasinophycae; o__Prasinophycae; f__Prasinophycae; g__Prasinophycae; s__phytoplankton_environmental
+KJ763689.1.1799	11.0	17.0	2.0	0.0	0.0	0.0	0.0	5.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+KU743766.1.1842	0.0	0.0	0.0	0.0	0.0	10.0	0.0	31.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Cryptomonadales; f__Cryptomonadales; g__Cryptomonadales; s__uncultured_eukaryote
+KF130564.1.1762	6.0	4.0	1.0	1.0	22.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales; g__OLI51059; s__uncultured_eukaryote
+KJ760584.1.1798	2.0	18.0	2.0	0.0	1.0	0.0	0.0	3.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_MALV-2D_Guillou_13_23
+AM712618.1.1803	0.0	0.0	11.0	0.0	0.0	1.0	0.0	17.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Cyclotella; s__Cyclotella_choctawhatcheeana
+U04235.1	0.0	0.0	0.0	0.0	27.0	0.0	0.0	0.0	d__Eukaryota; p__Fungi; c__Fungi; o__Dikarya(Ascomycota); f__Dothideomycetes
+KC582906.1.1788	0.0	1.0	0.0	0.0	2.0	0.0	0.0	20.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_alveolate
+KX532505.1.1342	28.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Dinophyceae; f__Dinophyceae; g__Azadinium; s__uncultured_marine
+DQ386756.1.1535	8.0	27.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales
+JF790984.1.1777	2.0	13.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_rufescens
+AB217869.1.1806	2.0	1.0	9.0	16.0	8.0	2.0	0.0	0.0	d__Eukaryota; p__Ochrophyta; c__Raphidophyceae; o__Chattonellales; f__Chattonellales; g__Heterosigma; s__Heterosigma_akashiwo
+KJ758571.1.1799	13.0	12.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+AM491011.1.1802	2.0	3.0	10.0	1.0	8.0	2.0	1.0	2.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiaceae; g__Haptolina
+KU561155.1.1715	0.0	8.0	2.0	0.0	0.0	18.0	1.0	0.0	d__Eukaryota; p__Chlorophyta; c__Trebouxiophyceae; o__Trebouxiophyceae; f__Trebouxiophyceae; g__Trebouxiophyceae; s__Picochlorum_maculatum
+KJ761355.1.1806	6.0	2.0	1.0	2.0	6.0	1.0	7.0	2.0	d__Eukaryota; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Thraustochytriaceae; g__Aplanochytrium
+JN832824.1.1705	29.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales
+GU821506.1.1406	1.0	6.0	0.0	0.0	0.0	4.0	6.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Protaspa
+KJ757626.1.1797	11.0	16.0	0.0	0.0	0.0	1.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__phytoplankton_environmental
+KJ763285.1.1791	3.0	2.0	0.0	0.0	0.0	10.0	4.0	17.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales
+KJ763348.1.1800	0.0	0.0	1.0	0.0	6.0	11.0	0.0	2.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KC488556.1.1659	6.0	11.0	2.0	3.0	1.0	0.0	2.0	1.0	d__Eukaryota; p__MAST-7; c__MAST-7B; o__MAST-7B; f__MAST-7B; g__MAST-7B; s__uncultured_eukaryote
+KF130521.1.1757	4.0	4.0	3.0	7.0	8.0	0.0	1.0	4.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales
+KC894150.1.1725	3.0	0.0	0.0	17.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Rhizosolenids; g__Leptocylindrus; s__Leptocylindrus_danicus
+GU825414.1.1202	7.0	9.0	3.0	2.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales
+KJ760652.1.1793	10.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Filasterea; o__Ministeriida; f__Capsasporidae; g__Marine_Group; s__uncultured_eukaryote
+KF130230.1.1781	11.0	12.0	16.0	4.0	13.0	1.0	1.0	1.0	d__Eukaryota; p__MAST-11; c__MAST-11; o__MAST-11; f__MAST-11; g__MAST-11; s__uncultured_eukaryote
+KX532427.1.1339	2.0	3.0	2.0	0.0	15.0	2.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KX602096.1.1617	0.0	4.0	1.0	2.0	8.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta; f__Chlorarachniophyta; g__uncultured; s__uncultured_chlorarachniophyte
+GU825515.1.1202	16.0	5.0	0.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Heterodinium; s__uncultured_eukaryote
+AF274262.1	5.0	8.0	0.0	6.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+AJ402351.1.1758	1.0	12.0	4.0	0.0	14.0	2.0	3.0	1.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales
+AY882471.1.1208	8.0	3.0	0.0	0.0	0.0	4.0	1.0	0.0	d__Eukaryota
+DQ060524.1.1778	1.0	7.0	8.0	1.0	0.0	2.0	0.0	0.0	d__Eukaryota; p__Picozoa; c__Picomonadida; o__Picomonadidae; f__Picomonadidae; g__Picomonas; s__uncultured_biliphyte
+KY980249.1.1739	2.0	5.0	2.0	0.0	0.0	4.0	0.0	37.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Geminigeraceae; g__Teleaulax
+EU418970.1.1590	0.0	0.0	25.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+FR874369.1.1800	0.0	0.0	1.0	0.0	2.0	1.0	0.0	19.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2; s__uncultured_marine
+KF129835.1.1777	12.0	13.0	1.0	11.0	1.0	1.0	1.0	0.0	d__Eukaryota; p__MAST-11; c__MAST-11; o__MAST-11; f__MAST-11; g__MAST-11; s__uncultured_eukaryote
+KC582978.1.1823	7.0	3.0	0.0	0.0	3.0	0.0	0.0	2.0	d__Eukaryota; p__Ochrophyta; c__Raphidophyceae; o__Raphidophyceae; f__Raphidophyceae; g__Raphidophyceae; s__uncultured_stramenopile
+KF130061.1.1763	4.0	54.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Centrohelida; c__Centrohelida; o__Centrohelida; f__Centrohelida; g__Centrohelida; s__uncultured_eukaryote
+KF130338.1.1751	5.0	17.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae; o__uncultured; f__uncultured; g__uncultured
+AY256322.1.1225	11.0	2.0	0.0	4.0	1.0	0.0	1.0	1.0	d__Eukaryota; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Thraustochytriaceae; g__Aplanochytrium
+KX602099.1.1621	4.0	3.0	11.0	49.0	10.0	0.0	0.0	0.0	d__Eukaryota; p__Picozoa; c__Picomonadida
+GU373965.1.1583	7.0	19.0	0.0	0.0	0.0	1.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Pseudo-nitzschia; s__uncultured_stramenopile
+AB252744.1.1720	9.0	13.0	0.0	1.0	0.0	1.0	1.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Cryothecomonas; s__uncultured_eukaryote
+AF107080.1.1795	0.0	5.0	0.0	4.0	2.0	0.0	0.0	2.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales
+KJ763362.1.1797	1.0	0.0	7.0	0.0	0.0	7.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+EF527133.1.1840	0.0	0.0	0.0	0.0	0.0	5.0	5.0	8.0	d__Eukaryota; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrales; f__Chlorodendrales; g__Tetraselmis
+KJ758256.1.1799	11.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+DQ080013.1	15.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Cnidaria; s__Gilia; s__Gilia
+KJ760589.1.1792	9.0	5.0	2.0	0.0	0.0	2.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Kareniaceae; g__Karlodinium; s__uncultured_marine
+KJ762905.1.1797	8.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Ceratiaceae; g__Neoceratium; s__uncultured_eukaryote
+GAPN01002113.1.1308	8.0	5.0	3.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Cylindrotheca; s__Cylindrotheca_closterium
+KJ763237.1.1781	4.0	4.0	0.0	0.0	0.0	2.0	0.0	3.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae; o__uncultured; f__uncultured; g__uncultured; s__uncultured_eukaryote
+FJ176220.1.1739	10.0	10.0	0.0	2.0	3.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Filasterea; o__Ministeriida; f__Capsasporidae; g__Marine_Group
+GU823655.1.1204	9.0	16.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Pseudo-nitzschia; s__uncultured_stramenopile
+KC582929.1.1796	1.0	13.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_alveolate
+KX602094.1.1655	0.0	15.0	2.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae
+KJ759310.1.1792	2.0	10.0	10.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_Syndiniales
+AB265963.1.1755	0.0	0.0	0.0	19.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+HG005135.1.1634	11.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+FJ000184.1.1267	9.0	1.0	0.0	0.0	7.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__uncultured_eukaryote
+JXLM01000489.977.2768	15.0	10.0	5.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata
+KU743532.1.1797	9.0	10.0	2.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Nephroselmidophyceae; o__Nephroselmidales; f__Nephroselmidales; g__Nephroselmis; s__uncultured_Chlorophyta
+KJ763064.1.1803	0.0	19.0	4.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+GQ863784.1.1612	0.0	2.0	0.0	13.0	4.0	0.0	2.0	1.0	d__Eukaryota; p__Labyrinthulomycetes; c__uncultured; o__uncultured; f__uncultured; g__uncultured; s__uncultured_eukaryote
+KC488597.1.1709	0.0	0.0	2.0	21.0	17.0	0.0	0.0	4.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__Pseudopirsonia
+KC488506.1.1684	12.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+GU824032.1.1221	16.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium
+KC488463.1.1696	6.0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__uncultured; s__uncultured_marine
+KJ763809.1.1784	14.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I
+KJ760881.1.1785	7.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__uncultured_eukaryote
+KF129639.1.1754	2.0	17.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+KC488503.1.1685	0.0	5.0	8.0	5.0	3.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_dinoflagellate
+AB275056.1.1726	5.0	2.0	0.0	0.0	4.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__NAMAKO-15; s__uncultured_eukaryote
+KJ763633.1.1797	8.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+EF172968.1.1678	13.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALVII_Guillou_II.3_4
+KF130481.1.1761	7.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_MALV-2C_Guillou_9_11
+KF130330.1.1758	8.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__Amoebophrya_sp._MALV-2_Guillou_II.3_4
+GU823236.1.1403	4.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Labyrinthulomycetes; c__uncultured; o__uncultured; f__uncultured; g__uncultured; s__uncultured_stramenopile
+KJ757457.1.1800	1.0	10.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+JQ782083.1.1749	3.0	0.0	8.0	0.0	3.0	0.0	1.0	1.0	d__Eukaryota; p__MAST-2; c__MAST-2; o__MAST-2; f__MAST-2; g__MAST-2; s__uncultured_eukaryote
+AJ402355.1.1758	3.0	11.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__MAST-7; c__MAST-7D; o__MAST-7D; f__MAST-7D; g__MAST-7D; s__uncultured_eukaryote
+KJ762836.1.1805	2.0	14.0	3.0	0.0	0.0	0.0	10.0	2.0	d__Eukaryota; p__Picozoa; c__Picomonadida; o__Picomonadidae; f__Picomonadidae; g__Picomonas; s__uncultured_eukaryote
+JN098199.1.1537	0.0	0.0	1.0	0.0	4.0	6.0	2.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Suessiaceae
+JQ222671.1.1648	0.0	0.0	0.0	0.0	0.0	4.0	0.0	9.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+KJ925270.1.1523	0.0	0.0	0.0	0.0	0.0	2.0	0.0	12.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Protaspa; s__uncultured_Rhizaria
+KF031708.1.1743	14.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_alveolate
+AJ561116.1.1817	9.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__Pseudopirsonia; s__Pseudopirsonia_mucosa
+KJ763157.1.1797	23.0	3.0	1.0	1.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KJ763014.1.1803	4.0	7.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KJ763079.1.1792	4.0	2.0	0.0	0.0	0.0	3.0	0.0	1.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__Karlodinium_veneficum
+KJ760617.1.1796	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+EU793688.1.1653	8.0	3.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_MALV-2F_Guillou_26
+AF033865.1.1801	6.0	2.0	8.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales; f__Peridiniales; g__Heterocapsa; s__Heterocapsa_niei
+HM581603.1.1799	3.0	4.0	5.0	0.0	1.0	0.0	6.0	6.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales
+EF526743.1.1556	0.0	5.0	0.0	0.0	0.0	2.0	0.0	7.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Suessiaceae; g__Pelagodinium; s__uncultured_marine
+KF130603.1.1770	0.0	2.0	0.0	0.0	0.0	1.0	2.0	16.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_eukaryote
+DQ396520.1.1798	2.0	0.0	4.0	0.0	0.0	6.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema
+EF527097.1.1338	1.0	1.0	0.0	0.0	4.0	0.0	0.0	7.0	d__Eukaryota; p__Ochrophyta; c__Bolidophyceae; o__Bolidophyceae; f__Bolidophyceae; g__Bolidophyceae; s__uncultured_marine
+FN690411.1.1710	0.0	0.0	0.0	0.0	0.0	2.0	3.0	6.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea
+AM901023.1.1763	0.0	0.0	0.0	0.0	0.0	3.0	1.0	11.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_cryptochromatica
+KX532378.1.1333	7.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_alveolate
+KJ763406.1.1798	5.0	2.0	1.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KF130133.1.1759	10.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KJ758319.1.1798	6.0	2.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KJ762940.1.1778	3.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae; o__uncultured; f__uncultured; g__uncultured; s__uncultured_marine
+HQ438176.1.1600	7.0	1.0	7.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales; f__Peridiniales; g__Protoperidinium; s__uncultured_marine
+KF130057.1.1757	1.0	6.0	6.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+GU823028.1.1397	1.0	7.0	0.0	0.0	0.0	3.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Pseudo-nitzschia; s__uncultured_stramenopile
+KF130527.1.1757	2.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+KJ759445.1.1798	1.0	1.0	2.0	0.0	0.0	2.0	0.0	5.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales
+JQ420125.1.1769	5.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__phytoplankton_environmental
+KM879219.1.1730	12.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Thoracosphaerales; f__Thoracosphaeraceae; g__Oodinium; s__Oodinium_pouchetii
+KC488565.1.1705	4.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Cryothecomonas; s__uncultured_eukaryote
+EU780600.1.1687	0.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KJ761823.1.1803	0.0	4.0	0.0	0.0	0.0	4.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Cymatosirales; f__Cymatosiraceae
+KC488554.1.1495	0.0	2.0	0.0	9.0	2.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-7
+FJ832114.1.1588	0.0	0.0	12.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Suessiaceae; g__Symbiodinium; s__uncultured_marine
+KJ760721.1.1797	0.0	0.0	1.0	14.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Coscinodiscophytina; g__Actinocyclus; s__uncultured_eukaryote
+KF130390.1.1757	0.0	0.0	0.0	2.0	8.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+KY979976.1.1705	0.0	0.0	0.0	0.0	0.0	3.0	1.0	5.0	d__Eukaryota; p__Ochrophyta; c__Pelagophyceae; o__Sarcinochrysidales; f__Sarcinochrysidales; g__Sarcinochrysidales; s__Pelagophyceae_sp.
+GU823297.1.1258	3.0	0.0	0.0	7.0	0.0	2.0	0.0	0.0	d__Eukaryota; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Labyrinthulomycetes; g__Labyrinthulomycetes; s__uncultured_stramenopile
+JQ781968.1.1798	1.0	0.0	0.0	5.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-7; c__MAST-7; o__MAST-7; f__MAST-7; g__MAST-7; s__uncultured_eukaryote
+EU793769.1.1689	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_MALV-2C_Guillou_9_11
+KF620973.1.1798	3.0	3.0	1.0	0.0	0.0	0.0	1.0	1.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales
+JN048119.1.1814	1.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured
+KJ759593.1.1801	0.0	10.0	0.0	0.0	0.0	2.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+GU647168.1.1540	0.0	7.0	0.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_alveolate
+KT023599.1.1636	0.0	4.0	0.0	0.0	0.0	1.0	0.0	2.0	d__Eukaryota; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrales; f__Chlorodendrales; g__Tetraselmis
+KJ763131.1.1800	0.0	1.0	0.0	0.0	5.0	1.0	0.0	2.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALV-2_Guillou_II.5
+GU823198.1.1218	0.0	0.0	0.0	0.0	0.0	6.0	0.0	4.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Cymatosirales; f__Cymatosiraceae
+AY620338.1.1263	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Novel_Clade_3; f__Novel_Clade_3; g__Novel_Clade_3; s__uncultured_Cercozoa
+KJ763295.1.1800	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Ceratiaceae; g__Neoceratium; s__uncultured_eukaryote
+FJ473378.1.1217	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+X91264.1.1793	3.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Pyramimonadophyceae; o__Pseudoscourfieldiales; f__Pycnococcaceae
+HQ658161.1.1742	7.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__Amoebophrya_sp.
+JX457438.1.1504	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+AY882525.1.1200	4.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Pseudo-nitzschia; s__uncultured_stramenopile
+FJ914447.1.1525	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium
+KJ759725.1.1793	6.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+EU046336.1.1765	6.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Amphidiniales; f__Amphidiniaceae; g__Amphidinium; s__Amphidinium_sp.
+AB275019.1.1721	7.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Thoracosphaerales; f__Thoracosphaeraceae; g__Thoracosphaeraceae; s__uncultured_eukaryote
+DQ779992.248.2051	5.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniales; f__Gymnodiniaceae; g__Gymnodinium; s__Gymnodinium_impudicum
+KU743777.1.1807	5.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ochrophyta; c__Pelagophyceae
+AJ535169.1.1793	5.0	1.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira
+KX532287.1.1339	4.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-1; c__MAST-1D; o__MAST-1D; f__MAST-1D; g__MAST-1D; s__uncultured_eukaryote
+EF527026.1.1389	8.0	3.0	0.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Ptychodiscus; s__uncultured_eukaryote
+KF130081.1.1758	1.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_dinoflagellate
+KF129978.1.1757	0.0	2.0	0.0	0.0	0.0	0.0	0.0	3.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+KJ761230.1.1793	3.0	8.0	2.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_dinoflagellate
+KF620978.1.1797	0.0	1.0	4.0	0.0	4.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Chrysochromulinaceae; g__Chrysochromulina; s__Haptophyta_environmental
+EU500144.1	1.0	5.0	1.0	0.0	0.0	0.0	6.0	1.0	d__Eukaryota; p__MAST-10; c__MAST-10; o__MAST-10; f__MAST-10; g__MAST-10; s__uncultured_eukaryote
+KJ762603.1.1796	1.0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALVII_Guillou_II.3_4
+U40920.1.1796	0.0	3.0	4.0	0.0	2.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Pyramimonadophyceae; o__Pseudoscourfieldiales; f__Prasinococcaceae; g__Prasinoderma
+HM581634.1.1796	0.0	2.0	2.0	0.0	4.0	0.0	3.0	3.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Chrysochromulinaceae; g__Chrysochromulina; s__uncultured_eukaryote
+AJ246277.1	0.0	0.0	2.0	0.0	1.0	0.0	0.0	2.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Chrysochromulinaceae; g__Chrysochromulina; s__uncultured_eukaryote
+AB058377.1.1748	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Pyramimonadophyceae; o__Pseudoscourfieldiales; f__Pycnococcaceae; g__Pycnococcus; s__Pycnococcus_sp.
+AF022201.1.1803	0.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KC583020.1.1788	0.0	0.0	0.0	0.0	0.0	3.0	1.0	3.0	d__Eukaryota; p__Ochrophyta; c__Eustigmatophyceae; o__Eustigmatales; f__Eustigmatales; g__uncultured
+KU743760.1.1814	0.0	0.0	0.0	0.0	0.0	2.0	2.0	6.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Protaspa; s__uncultured_eukaryote
+KJ759525.1.1804	0.0	3.0	0.0	0.0	0.0	0.0	0.0	5.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_III; g__Syndiniales_Group_III
+KJ762964.1.1792	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+FJ000139.1.1381	5.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+KJ759468.1.1809	5.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+KJ763488.1.1798	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+GU999528.1.1794	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales; f__Peridiniales; g__Durinskia; s__Durinskia_baltica
+JX188382.1.1760	12.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+AY551272.1	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KU743783.1.1799	2.0	1.0	3.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta
+KU561106.1.1716	2.0	4.0	0.0	0.0	0.0	1.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Trebouxiophyceae; o__Trebouxiophyceae; f__Trebouxiophyceae; g__Trebouxiophyceae
+KJ759474.1.1797	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata
+JF797223.1	3.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Fungi; c__Fungi; o__Dikarya(Ascomycota)
+KC583006.1.1805	1.0	1.0	0.0	0.0	0.0	0.0	1.0	1.0	d__Eukaryota; p__MAST-4; c__MAST-4D; o__MAST-4D; f__MAST-4D; g__MAST-4D; s__uncultured_eukaryote
+GU825188.1.1204	2.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Apusomonadidae; c__Apusomonadidae; o__Apusomonadidae; f__Apusomonadidae; g__Apusomonadidae; s__uncultured_eukaryote
+KY852258.1.1707	8.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_costatus
+FJ800609.1.1395	1.0	3.0	0.0	2.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Labyrinthulomycetes; c__uncultured; o__uncultured; f__uncultured; g__uncultured
+JF791018.1.1777	0.0	1.0	0.0	0.0	0.0	0.0	0.0	7.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_alveolate
+DQ780941.1	0.0	1.0	0.0	0.0	4.0	0.0	0.0	0.0	d__Eukaryota; p__Fungi; c__Fungi; o__Dikarya(Ascomycota); f__Dothideomycetes; g__Cladosporium; s__Cladosporium
+DQ222874.1.1786	0.0	1.0	9.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Picozoa; c__Picozoa; o__Picozoa; f__Picozoa; g__Picozoa; s__uncultured_phototrophic
+KJ762435.1.1785	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida; f__Stephanoecidae; g__Diaphanoeca
+KJ762966.1.1794	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__Pseudopirsonia; s__uncultured_eukaryote
+KJ763588.1.1798	0.0	0.0	0.0	3.0	0.0	0.0	7.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+AB180202.1.1789	2.0	4.0	3.0	0.0	2.0	0.0	5.0	2.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Chrysochromulinaceae; g__Chrysochromulina
+AJ535176.1.1801	0.0	0.0	0.0	0.0	0.0	3.0	0.0	1.0	d__Eukaryota; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Rhizosolenids; g__Leptocylindrus; s__Leptocylindrus_minimus
+KF621000.1.1752	0.0	0.0	0.0	0.0	0.0	3.0	2.0	1.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales; g__Prymnesium; s__Haptophyta_environmental
+AB275044.1.1689	0.0	0.0	0.0	0.0	0.0	5.0	0.0	4.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Cryothecomonas; s__uncultured_eukaryote
+AM490984.1.1724	2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae
+KJ760569.1.1796	3.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KC771146.1.1798	4.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KJ763719.1.1798	4.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+DQ386744.1.1539	2.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+KJ759041.1.1796	6.0	1.0	0.0	0.0	2.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+AB983345.1.1693	1.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Haptophyta
+GU820183.1.1210	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__Amoebophrya_sp.
+KF130552.1.1759	6.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+JQ782028.1.1806	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-4; c__MAST-4D; o__MAST-4D; f__MAST-4D; g__MAST-4D; s__uncultured_eukaryote
+AY381191.1.1802	3.0	3.0	0.0	1.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-7; c__MAST-7; o__MAST-7; f__MAST-7; g__MAST-7; s__uncultured_eukaryote
+KJ763167.1.1796	2.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales
+KJ758208.1.1799	6.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+AJ841809.1.1800	4.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Thoracosphaerales; f__Thoracosphaeraceae; g__Stoeckeria; s__Stoeckeria_algicida
+AB002076.1	7.0	1.0	0.0	1.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Fungi; c__Fungi; o__Dikarya(Ascomycota); f__Eurotiomycetes; g__Eurotium; s__Eurotium
+KC488464.1.1700	3.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_III; g__Syndiniales_Group_III
+KF130094.1.1756	2.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+DQ103869.1.1818	5.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KX532422.1.1343	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KC488470.1.1696	3.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_marine
+FN690164.1.1703	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Suessiaceae
+KJ759508.1.1795	1.0	3.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_dinoflagellate
+KJ757488.1.1800	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+AB695521.1.1763	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Vampyrellidae; o__Vampyrellidae; f__Vampyrellidae; g__uncultured; s__uncultured_eukaryote
+KC582888.1.1798	3.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+AY443022.1.1751	1.0	0.0	2.0	4.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales; f__Peridiniales; g__Protoperidinium; s__Protoperidinium_pellucidum
+JF698782.1.1630	1.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales
+KX253952.1.1790	2.0	2.0	0.0	0.0	0.0	1.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Pseudo-nitzschia; s__uncultured_stramenopile
+AY421788.1.1785	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Lingulodiniaceae; g__Lingulodinium; s__Lingulodinium_polyedra
+KF129846.1.1761	2.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KJ763600.1.1803	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+Z38025.1.1686	1.0	0.0	2.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae; o__Chromulinales; f__Paraphysomonadaceae; g__Paraphysomonas
+AB252751.1.1700	2.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2; s__uncultured_eukaryote
+KJ763151.1.1798	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniales; f__Gymnodinium_clade; g__Woloszynskia; s__uncultured_eukaryote
+AF363206.1.1428	2.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-8; c__MAST-8; o__MAST-8; f__MAST-8; g__MAST-8; s__uncultured_eukaryote
+EU446389.1.1555	1.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__Amoebophrya_sp.
+KU743847.1.1799	0.0	2.0	5.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodinium_clade; g__Paragymnodinium; s__uncultured_eukaryote
+KC582999.1.2114	1.0	4.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae; o__uncultured; f__uncultured; g__uncultured; s__uncultured_stramenopile
+X85389.1.1798	0.0	3.0	0.0	0.0	0.0	1.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Eucampia; s__Eucampia_antarctica
+JQ782001.1.1776	0.0	2.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-1; c__MAST-1B; o__MAST-1B; f__MAST-1B; g__MAST-1B; s__uncultured_eukaryote
+GU823798.1.1397	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__uncultured_eukaryote
+AY885029.1.1278	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+KX602135.1.1706	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae
+KC488580.1.1683	0.0	1.0	0.0	2.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+KJ760951.1.1802	0.0	4.0	0.0	0.0	0.0	0.0	1.0	1.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__phytoplankton_environmental
+KX532363.1.1331	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella
+AB252754.1.1716	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__NAMAKO-15; s__uncultured_eukaryote
+DQ093366.1.1806	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira
+U41086.1.1797	0.0	0.0	2.0	0.0	0.0	4.0	1.0	1.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Suessiaceae; g__Pelagodinium
+AB284159.1.1765	0.0	0.0	3.0	0.0	0.0	0.0	0.0	3.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales; f__Peridiniales; g__Protoperidinium; s__Protoperidinium_bipes
+AJ535173.1.1800	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__uncultured_stramenopile
+KF129964.1.1760	1.0	1.0	2.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Codosigidae; f__Codosigidae; g__Lagenoeca; s__uncultured_eukaryote
+AY303585.1	0.0	0.0	1.0	3.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Ulvophyceae; o__Ulvales; f__Ulvaceae; g__Ulva; s__Ulva_sp.
+JQ226361.1.1614	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+EF526764.1.1565	0.0	0.0	0.0	8.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodinium_clade; g__uncultured
+KJ763007.1.1798	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiophyceae; f__Prymnesiophyceae; g__Phaeocystis
+EF526977.1.1797	0.0	1.0	0.0	0.0	3.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-2; c__MAST-2; o__MAST-2; f__MAST-2; g__MAST-2; s__uncultured_eukaryote
+AB275059.1.1730	0.0	0.0	0.0	0.0	0.0	1.0	3.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Imbricatea; f__Euglyphida; g__Paulinella; s__uncultured_eukaryote
+KY980400.1.1711	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	d__Eukaryota; p__Ochrophyta; c__Raphidophyceae; o__Chattonellales; f__Chattonellales; g__Chattonella; s__Chattonella_subsalsa
+KC583027.1.1771	0.0	0.0	0.0	0.0	0.0	0.0	2.0	3.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae; o__uncultured; f__uncultured; g__uncultured; s__uncultured_stramenopile
+KF130554.1.1742	0.0	0.0	0.0	0.0	0.0	0.0	2.0	2.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Codosigidae; f__Codosigidae; g__Lagenoeca; s__uncultured_eukaryote
+EU561718.1.1754	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae; o__uncultured; f__uncultured; g__uncultured; s__uncultured_marine
+KF129770.1.1756	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-7; c__MAST-7D; o__MAST-7D; f__MAST-7D; g__MAST-7D; s__uncultured_eukaryote
+AB016722.1.1792	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Suessiaceae; g__Symbiodinium; s__Symbiodinium_sp.
+KF130179.1.1757	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__phytoplankton_environmental
+KJ759537.1.1800	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KC488460.1.1689	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_alveolate
+KJ763762.1.1799	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+GU819989.1.1203	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+AB275061.1.1664	2.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Phytomyxea; o__Phytomyxea; f__Phytomyxea; g__Maullinia; s__uncultured_eukaryote
+KF129687.1.1759	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KP790163.1.1798	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+EU046338.1.1759	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Amphidiniales; f__Amphidiniaceae; g__Amphidinium; s__Amphidinium_sp.
+FJ824123.1.1824	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Protaspa; s__Protaspis_sp.
+GU823651.1.1394	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Nitzschia
+KJ763559.1.1799	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_MALV-2D_Guillou_13_23
+KJ761122.1.1799	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KJ759448.1.1794	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+AY664891.1.1746	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KJ925379.1.1695	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Thoracosphaerales; f__Thoracosphaeraceae; g__Scrippsiella; s__uncultured_eukaryote
+KJ763179.1.1804	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Kareniaceae; g__Karlodinium; s__uncultured_eukaryote
+DQ240024.1	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Fungi; c__Fungi; o__Dikarya(Ascomycota); f__Dothideomycetes; g__Mycosphaerella; s__Mycosphaerella
+EF492512.1	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+AF363191.1.1782	3.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-1; c__MAST-1C; o__MAST-1C; f__MAST-1C; g__MAST-1C; s__uncultured_eukaryote
+FJ832104.1.1585	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodinium_clade; g__Paragymnodinium
+KJ759401.1.1800	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_MALV-2F_Guillou_26
+GU821595.1.1202	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Retaria; c__RAD_A; o__RAD_A; f__RAD_A; g__RAD_A; s__uncultured_Rhizaria
+KJ760593.1.1797	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+GU823524.1.1393	1.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__uncultured_stramenopile
+KJ763899.1.1804	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KJ763866.1.1798	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KX532457.1.1335	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+AB013014.1	5.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Tunicata; g__Oikopleura; s__Oikopleura
+EF492504.1.1796	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KX532286.1.1335	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KJ763564.1.1803	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KJ577857.1.1649	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Rhizosolenids; g__Guinardia; s__Guinardia_striata
+MF615236.1.1680	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__Marimonadida; s__Pseudopirsonia_sp.
+AY129061.1.1800	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-7; c__MAST-7B; o__MAST-7B; f__MAST-7B; g__MAST-7B; s__uncultured_eukaryote
+KJ759351.1.1800	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_III; g__Syndiniales_Group_III; s__uncultured_eukaryote
+AY749615.1.1575	0.0	2.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Centrohelida; c__Centrohelida; o__Centrohelida; f__Acanthocystidae; g__Choanocystis; s__Choanocystis_sp.
+KJ757044.1.1801	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Heterodinium; s__uncultured_eukaryote
+EF492506.1.1794	0.0	1.0	0.0	2.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KJ760732.1.1804	1.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KC582948.1.1792	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_alveolate
+GU820553.1.1202	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALV-2_Guillou_II.5
+JQ420085.1.1784	0.0	1.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__phytoplankton_environmental
+KU561118.1.1714	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales; g__Prymnesium
+KJ760407.1.1804	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta
+DQ310204.1.1397	0.0	0.0	3.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae; o__Chromulinales; f__Paraphysomonadaceae; g__Paraphysomonas
+DQ369017.1.1820	1.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Thaumatomonadida; f__Thaumatomonadida; g__D2P04A09; s__uncultured_marine
+FJ997213.1.2232	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Pyramimonadophyceae; o__Pseudoscourfieldiales; f__Prasinococcaceae; g__Prasinoderma; s__Prasinoderma_singulare
+AB275058.1.1723	0.0	0.0	0.0	3.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__Pseudopirsonia; s__uncultured_eukaryote
+JQ782026.1.1809	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-3; c__MAST-3A; o__MAST-3A; f__MAST-3A; g__MAST-3A; s__uncultured_eukaryote
+AJ431370.1.1701	0.0	0.0	0.0	0.0	0.0	5.0	1.0	0.0	d__Eukaryota; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrales; f__Chlorodendrales; g__Tetraselmis; s__Tetraselmis_sp.
+DQ314810.1.1782	0.0	1.0	0.0	0.0	0.0	4.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Protaspa; s__uncultured_Cercozoa
+AY129045.1.1794	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_marine
+MH732687.1.1731	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae
+FN690728.1.1696	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__Dolichomastigales; f__Dolichomastigaceae; g__Crustomastix; s__Crustomastix_stigmatica
+AY381200.1.1796	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__MAST-3; c__MAST-3K; o__MAST-3K; f__MAST-3K; g__MAST-3K; s__uncultured_eukaryote
+AY664885.1.1754	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+EF526901.1.1367	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	d__Eukaryota; p__Protosporangiida; c__Protosporangiidae; o__Protosporangiidae; f__Protosporangiidae; g__Protosporangium; s__uncultured_eukaryote
+GU820700.1.1238	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium; s__uncultured_dinoflagellate
+KP404844.1.1701	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KJ481819.1.1771	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+AM408889.1.1796	3.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodinium_clade; g__Paragymnodinium; s__Paragymnodinium_shiwhaense
+KJ763006.1.1801	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I
+KJ759687.1.1788	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_eukaryote
+GU823555.1.1393	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae; o__Fragilariales; f__Fragilariales; g__Thalassionema; s__uncultured_stramenopile
+AB195668.1.1740	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales; f__Peridiniales; g__Peridiniales; s__Dinophyta_sp.
+AJ561113.1	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Stramenopiles; c__Stramenopiles; o__Stramenopiles; f__Stramenopiles; g__Pirsonia; s__Pirsonia_verrucosa
+KJ759387.1.1799	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_III; g__Syndiniales_Group_III; s__uncultured_eukaryote
+KJ762839.1.1797	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Kathablepharidae; c__Kathablepharidae; o__Kathablepharidae; f__Kathablepharidaceae; g__Leucocryptos; s__uncultured_eukaryote
+FJ947040.1.1779	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KJ762050.1.1801	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+DQ504332.1.1638	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+DQ386752.1.1531	1.0	0.0	0.0	0.0	1.0	2.0	1.0	2.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Kareniaceae; g__Karlodinium; s__uncultured_marine
+KJ763750.1.1801	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+GU823614.1.1398	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__uncultured_stramenopile
+KC488567.1.1709	2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Cryothecomonas; s__uncultured_eukaryote
+FJ973363.1.1705	2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ochrophyta; c__Pelagophyceae; o__Sarcinochrysidales; f__Sarcinochrysidales; g__Ankylochrisis; s__Pelagophyceae_sp.
+KX532353.1.1333	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+KJ762878.1.1787	3.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I
+KJ763229.1.1798	1.0	3.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodinium_clade; g__Paragymnodinium; s__uncultured_eukaryote
+JF521620.1.1736	2.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Pyrophacaceae; g__Alexandrium
+FJ914478.1.1528	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Dinophyceae; f__Dinophyceae; g__Azadinium; s__uncultured_marine
+HQ215536.1	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Fungi; c__Fungi; o__Dikarya(Ascomycota); f__Dothideomycetes
+AY208893.1.1819	1.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__Amoebophrya_sp.
+KU743838.1.1799	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae
+JQ782078.1.1800	1.0	2.0	0.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira
+KJ759612.1.1802	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KF129605.1.1757	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+KX611421.1.1596	1.0	2.0	0.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_elegans
+KJ761602.1.1800	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+KJ763647.1.1804	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_MALV-2F_Guillou_26
+FR865486.2.1767	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_sp.
+KF129871.1.1747	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida; f__Stephanoecidae; g__Diaphanoeca; s__uncultured_eukaryote
+KF129751.1.1759	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_eukaryote
+KU743784.1.1796	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__eukaryote_clone
+JN606065.1.1798	0.0	2.0	0.0	0.0	0.0	1.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__Euduboscquella_crenulata
+KF129657.1.1752	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_Syndiniales
+JQ420086.1.1778	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__phytoplankton_environmental
+KC488495.1.1696	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+DQ075201.1.1724	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Pavlovophyceae; c__Pavlovophyceae; o__Pavlovophyceae; f__Pavlovophyceae; g__Pavlova; s__Pavlova_viridis
+KC582950.1.1791	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_alveolate
+HQ912624.1.1650	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Mediophyceae; s__Hemiaulus_sinensis
+KJ763718.1.1789	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_Amoebophrya
+KF129670.1.1756	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+JF826343.1.1605	0.0	0.0	2.0	0.0	0.0	1.0	0.0	0.0	d__Eukaryota
+KY980137.1.1688	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__Dolichomastigales; f__Dolichomastigaceae; g__Crustomastix; s__Crustomastix_sp.
+AB058375.1.1750	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Pyramimonadophyceae; o__Pseudoscourfieldiales; f__Prasinococcaceae; g__Prasinoderma; s__prasinophyte_sp.
+KC488593.1.1688	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Cryothecomonas
+KT861015.1.1626	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Rhizosolenids; g__Guinardia; s__Guinardia_striata
+FR874494.1.1794	0.0	0.0	0.0	0.0	1.0	0.0	0.0	4.0	d__Eukaryota; p__MAST-2; c__MAST-2; o__MAST-2; f__MAST-2; g__MAST-2; s__uncultured_eukaryote
+AF201452.1	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Fungi; c__Fungi; o__Dikarya(Ascomycota); f__Dothideomycetes
+5a88280cde40734ca71941cfc11a265ab48fecae	116.0	284.0	68.0	17.0	170.0	3301.0	7894.0	2348.0	d__Eukaryota; p__Chlorophyta; c__Trebouxiophyceae; o__Trebouxiophyceae; f__Trebouxiophyceae; g__Trebouxiophyceae
+3f5ffe650becbb5708079fcad2af3860cb0408c4	1824.0	4586.0	18.0	0.0	6.0	16.0	2389.0	1132.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__Dolichomastigales; f__Dolichomastigaceae; g__Crustomastix
+4750f523a2b577bbd4bbccc28c4490364678059a	278.0	389.0	37.0	0.0	1.0	10.0	81.0	502.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__Mamiellales; f__Mamiellaceae; g__Micromonas; s__Micromonas_pusilla
+5881f2cf15de9ca22fd36f0fb2cfe9db4f7d0ed2	213.0	637.0	6.0	4.0	14.0	0.0	2.0	3.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Tunicata; g__Oikopleura; s__Oikopleura
+dd7ad239394c7312cd54c7daa78f8b6306dcb3c0	7.0	2.0	0.0	0.0	0.0	11.0	37.0	642.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+d2f56d7d13f6823cc610389b53fc3e51652490b8	72.0	195.0	117.0	2.0	3.0	11.0	9.0	102.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_rufescens
+d88f9e77279e5cfdb55a1a13aeacb64040f83237	368.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+0f2a8b5860202a747d602ac7b3bc2b6c50cffadd	16.0	28.0	7.0	0.0	0.0	19.0	12.0	295.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_rufescens
+14063b316b55e0aba98671445f812b999c792a98	43.0	57.0	9.0	0.0	0.0	7.0	12.0	321.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Geminigeraceae; g__Plagioselmis; s__uncultured_freshwater
+4da95c84ca83050169d97e0ea48cf36997eee97e	58.0	124.0	36.0	0.0	0.0	0.0	7.0	132.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_rufescens
+c0ba5182219de722186a03e72d5e15a5ab9ab050	243.0	86.0	9.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+807dffd532293ddfe9dc3945e4aad3d1a316e9dc	36.0	5.0	0.0	0.0	0.0	20.0	294.0	35.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+5be5bed6406b21ff3dfc5338367237cd77ee8924	54.0	273.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+d96e1e0a820973c24cd429aebeb3bf4499acd9eb	264.0	0.0	0.0	0.0	0.0	1.0	1.0	2.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Tunicata; g__Molgula; s__Molgula
+80bb1287ba8cb91f2c6cec01239d5678610e7cd6	0.0	0.0	1.0	0.0	0.0	22.0	26.0	201.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_rufescens
+10df4e1560fb62f83e6cb32bd95ed949b86a49fc	16.0	33.0	20.0	62.0	23.0	61.0	13.0	2.0	d__Eukaryota
+a41068b9b1f03b94e10b63eb24acb5955f346d8e	25.0	77.0	70.0	59.0	5.0	0.0	0.0	3.0	d__Eukaryota; p__Picozoa; c__Picomonadida; o__Picomonadidae; f__Picomonadidae; g__Picomonas
+6f346383d7061aad2b2b07fc47b7061d87d97018	43.0	91.0	0.0	160.0	42.0	0.0	0.0	4.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta; f__Chlorarachniophyta; g__Minorisa
+246907bcb4b518ba00ec8b897cc7cbb165544a94	2.0	229.0	0.0	1.0	16.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa
+ac6f5498ad58c8bf524e966b2227fc3fe3e4e53b	23.0	1.0	0.0	177.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Copepoda; g__Oithona; s__Oithona
+2dd75c1e4806288b06c88dbe8e2adfceff397804	169.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+a53f4448bd54b7f28de0aa18b3cca23aeb59ffea	172.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mammalia; g__Homo_sapiens; s__Homo_sapiens
+127f2c365caf7986e8c3a6d5eba4cc95a24fdcd6	11.0	6.0	4.0	0.0	0.0	284.0	20.0	47.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema; s__Skeletonema_menzellii
+89599d459c7de9b756ff1c5afe5c526b32cebcd2	18.0	74.0	15.0	1.0	41.0	0.0	0.0	1.0	d__Eukaryota
+1200eefe5ad56dff73fa24acddeaebe0ac24152c	29.0	195.0	151.0	0.0	0.0	1.0	0.0	19.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_rufescens
+d5ae91563b386f9f8fb51d72a2d20c6eef68387a	0.0	0.0	0.0	0.0	0.0	5.0	22.0	154.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_rufescens
+2069ad653d258c1a05d26cd30f0858f62d051910	164.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+7342e19f90981b3ca0e74645bee18be66748c20a	130.0	0.0	11.0	0.0	0.0	2.0	0.0	5.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Tunicata; g__Molgula; s__Molgula
+8667931306c54055fbb094eceb8e12a445aca725	0.0	0.0	0.0	0.0	0.0	0.0	0.0	140.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2; s__uncultured_marine
+eaa42dad7f4471029e48f58462ac2b9995353635	6.0	2.0	2.0	0.0	0.0	128.0	5.0	4.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__uncultured_Skeletonema
+bd0b99a36df27b288a2479c7e4f04de3ba6db8d9	134.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Oligotrichea; o__Choreotrichida; f__Choreotrichia; g__Tintinnidium; s__Tintinnidium_cf.
+0c3869bfb94d16d061edea587e0c92de2e1b4028	141.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Tunicata; g__Oikopleura; s__Oikopleura
+4b53eb4c948c82d07d67cb27d43d03f9369dd715	7.0	98.0	1.0	0.0	1.0	0.0	13.0	9.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae; g__Hypotrichia
+444537bc7691e9bb9b2eeb5bddfc9142bdcf3621	11.0	24.0	0.0	90.0	3.0	0.0	3.0	2.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta; f__Chlorarachniophyta; g__Minorisa; s__Minorisa_sp.
+397e105088664d559a715e2e8865cb10aee36eee	8.0	19.0	64.0	0.0	1.0	5.0	9.0	12.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__Mamiellales; f__Mamiellaceae; g__Micromonas; s__Micromonas_pusilla
+8e6edbb2400729a586427810d37e5944d97a6a51	57.0	47.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Fungi; c__Fungi; f__Chytridiomycota; f__Chytridiomycetes; g__Chytridiales_sp.PL70; s__Chytridiales_sp.PL70
+84e95623b8c5b20f077b6ead559e1396f448c0f1	101.0	4.0	21.0	0.0	2.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Copepoda; g__Oithona; s__Oithona
+80b4d6b188ea71b9887fee0068e370bfe703b94d	1.0	1.0	86.0	0.0	3.0	0.0	6.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+c47d9ee0ad4ef68106b2bc2663a04e2d36882105	4.0	13.0	0.0	0.0	0.0	43.0	9.0	15.0	d__Eukaryota; p__Holozoa; c__Ichthyosporea; o__Abeoformidae; f__Abeoformidae; g__Pirum; s__uncultured_eukaryote
+d2f39601fe30a76452eaf39791532cf8870e3985	9.0	20.0	0.0	0.0	0.0	2.0	1.0	84.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_rufescens
+6d4d6cd580c8834eab24618a859f73f1e92175c2	1.0	8.0	0.0	0.0	0.0	55.0	0.0	22.0	d__Eukaryota; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrales; f__Chlorodendrales; g__Tetraselmis
+f842a976225b482c1e1aadbe442a99d13450549f	72.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa
+43a2f95b3b00317458892b87f6c6a0da8e1bb425	10.0	19.0	0.0	0.0	0.0	0.0	0.0	35.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALV-2_Guillou_II.5
+7c0b8fcaac27741a4090e8bff02ca11422f62104	31.0	27.0	0.0	18.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2; s__uncultured_Rhizaria
+3c2ed316311649557879bb9ac18e4472704fb831	14.0	54.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2; s__uncultured_Cercozoa
+073c0481729c0bd3c1714d1d03e8b42408c8614e	15.0	8.0	1.0	12.0	25.0	0.0	0.0	5.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2; s__uncultured_Rhizaria
+db626bf800b99cbe983f23525a34aa7c35c5fe93	0.0	0.0	83.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__Pseudopirsonia
+a541e83232e69b0727a29977efc179c0c49b85ec	0.0	0.0	1.0	0.0	0.0	0.0	0.0	61.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2; s__uncultured_Cercozoa
+73f0c6e5583a6781adc7e47ed613cd7774781cd0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	54.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea
+d70e2fb9d778f64a21cf923ee488135869cde475	13.0	49.0	2.0	0.0	0.0	1.0	0.0	8.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__Amoebophrya_sp.
+93c0c63e0f1afa40764a37e3f3d8f1fd065afc5a	5.0	4.0	0.0	44.0	6.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2
+efae3872cef6d2f5edc7484848851a456fb44653	11.0	44.0	17.0	0.0	0.0	0.0	0.0	19.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Geminigeraceae; g__Teleaulax
+283002e6cc20c1eb0ac6622736029d2483497922	0.0	0.0	0.0	0.0	0.0	1.0	9.0	45.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_rufescens
+c974fb16b69bdcd0d2a5378e4fa24e0c665e9727	33.0	16.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Phytomyxea; o__Phytomyxea; f__Phytomyxea; g__Maullinia; s__uncultured_eukaryote
+6dfe861fff432aa7fc6d4ca964b7b234ced8dc1b	37.0	14.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+de0523d4741db29dc26f748bfe675797cc085224	1.0	2.0	0.0	0.0	1.0	1.0	3.0	35.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__Uncultured_marine
+0f9503247b3fe9d22b3088e47e443149b3f3f436	24.0	25.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+257d13ac058776a9d9b55a978fde79ba844a2809	0.0	50.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta; f__Chlorarachniophyta; g__uncultured
+461c11aa27237d60cc772b717677680826d81f0b	18.0	29.0	1.0	9.0	6.0	0.0	0.0	1.0	d__Eukaryota; p__MAST-7; c__MAST-7D; o__MAST-7D; f__MAST-7D; g__MAST-7D; s__uncultured_eukaryote
+f8046801f9c280ac6a5c050a2276725ebf95f4fb	1.0	7.0	0.0	0.0	5.0	33.0	5.0	2.0	d__Eukaryota
+fc007595a3ceff9d40befdd8db86980d5e6c4109	1.0	11.0	0.0	0.0	2.0	0.0	5.0	21.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+7cd7d8f17b10b70745b0def32d215543e8db306d	0.0	0.0	28.0	0.0	0.0	7.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+6d38f7d5be7beedd48104d14da375dec8acc31c9	2.0	37.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+671f8df409a394d587c9f29d70c9a160b3e16765	2.0	1.0	0.0	5.0	40.0	1.0	1.0	3.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales
+b4982bc613a2907bcbeac8e4d6f1018568ed481d	4.0	35.0	8.0	0.0	0.0	0.0	16.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae
+348be2b4818828895d7a5858bd38ff119c1e7c23	0.0	0.0	0.0	0.0	0.0	19.0	9.0	8.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+26e9cafc0e6c95a05e48588a0b80ffeda70ff326	0.0	0.0	0.0	0.0	0.0	2.0	0.0	34.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2
+a731b177225ac510d3d566c7ba6c52a2207a6956	10.0	25.0	0.0	0.0	0.0	0.0	2.0	1.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Thaumatomonadida; f__Thaumatomonadida; g__D2P04A09; s__uncultured_marine
+1c9f4011465612b444406405e56c2bfcd975b33f	1.0	40.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_MALV-2E_Guillou_18_34
+fcb63e70c0c85c87e2c8ab790c487d5ff7829f2a	1.0	0.0	0.0	0.0	0.0	0.0	29.0	2.0	d__Eukaryota
+49e99aacdba3392c08bad790ac85c9e50e55b503	3.0	4.0	0.0	16.0	18.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Thaumatomonadida; f__Thaumatomonadida; g__D2P04A09
+cc11d07e1c375eefada3baf6e5b2775af0cf8997	4.0	6.0	6.0	0.0	0.0	1.0	4.0	14.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Salpingoeca; s__Salpingoeca_calixa
+07143a194fb2f527e00bdeedd0d35948865d6fae	0.0	2.0	5.0	1.0	0.0	0.0	13.0	9.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae; g__Holosticha; s__uncultured_eukaryote
+c6207913b3733ae04f9a6e476c6aa319dfaad603	8.0	41.0	0.0	0.0	0.0	0.0	2.0	3.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida
+a4cf1108168d0ad935940ebbc058b8e4a79c14bb	10.0	11.0	1.0	0.0	0.0	1.0	0.0	14.0	d__Eukaryota
+3f3bcae16f210c07662522e56f5184cb0dd1e4a8	9.0	13.0	6.0	0.0	0.0	4.0	0.0	1.0	d__Eukaryota
+410c158e15c168e54dd4a456976835005eb01b71	6.0	22.0	17.0	0.0	0.0	0.0	0.0	18.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Salpingoeca; s__Salpingoeca_calixa
+68a580073adf42f382efd7f7a6e75c4ba725b335	11.0	21.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae
+5d8ca64e39431a8e38ccecba967ca24c83d23507	4.0	6.0	3.0	4.0	5.0	0.0	6.0	23.0	d__Eukaryota
+1876f67f2b87b25d670765b78085166e211c2a81	0.0	7.0	0.0	0.0	1.0	22.0	15.0	17.0	d__Eukaryota
+a1981d73f4de90e0ae989690d0990795d81daaf0	14.0	28.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Oligotrichea; o__Oligotrichia_Oligotrichida; f__Tontoniidae; g__Pseudotontonia; s__Pseudotontonia_simplicidens
+efc994d0fbd6fb6221b588e911edb58503f301bd	4.0	6.0	0.0	18.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora
+7a645cbc73081284ce9e163702d48f138930a2fc	63.0	9.0	1.0	2.0	0.0	0.0	1.0	2.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Tunicata; g__Molgula; s__Molgula
+a9bdb8538d284f3f88d6e58e64728825a6688bef	4.0	21.0	2.0	0.0	0.0	0.0	5.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae
+4af082c3ca9e20be113dea1865ad1b22d5fd317a	5.0	24.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+33e5c4c185bc7fd3eb0d9e70a4fda9df285c5671	27.0	1.0	0.0	0.0	3.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa
+4243f5d6562607366b149898b99cb4a792ba76fd	29.0	1.0	0.0	0.0	4.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+c3c1ace90cf626956c7be80f1752a96428cb28ec	10.0	20.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa
+bbd6d2f9f781d8b3a2c2d77c207861ca6c4c5c7c	0.0	0.0	0.0	0.0	0.0	32.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Chlorophyceae; o__Chlamydomonadales; f__Chlamydomonadaceae; g__Chlamydomonas; s__Chlamydomonas_klinobasis
+7a71b8cfb41cc27d6c3b31ebfc5ae022ab5d6f6a	0.0	5.0	0.0	0.0	0.0	27.0	21.0	31.0	d__Eukaryota
+a062cf397672a2ffd86aeb7dd1f7dbb4a90a66d9	60.0	9.0	0.0	0.0	0.0	3.0	0.0	1.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida
+d48f733fbe122b5bc0e385a24dc771e2444fbe78	6.0	23.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta
+3c9655a384042dd3cc05a368196c31d45f220940	9.0	8.0	0.0	0.0	0.0	0.0	0.0	8.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2
+0467c040bbab82f29e9d1f024d85f50afc1e89b4	5.0	39.0	2.0	0.0	2.0	1.0	12.0	20.0	d__Eukaryota
+d2d94414e1d4003e8f5245f326466019a0bbc67b	18.0	4.0	0.0	0.0	0.0	0.0	7.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Thaumatomonadida; f__Thaumatomonadida; g__Peregriniidae; s__Esquamula_lacrimiformis
+7514f8b188391192e31cf8b41c7c5448c0debb30	0.0	0.0	11.0	34.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Fungi; c__Fungi; f__Chytridiomycota; f__Chytridiomycetes
+8e71c3c1bb7cde2564905e07e6b438afec1763a3	7.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+08d1bc9ef389a3017b0f387617d13d444afa8dd0	10.0	7.0	9.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Geminigeraceae
+97477b0f77912b1e89772ef4a668e6dbde849e8c	0.0	1.0	24.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+d1cbcbd8ff8b028d04b3b4ebff3b8913630fab0e	0.0	8.0	0.0	0.0	0.0	3.0	4.0	10.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_Syndiniales
+0235a111020dc5c33f227e18ff379bc1219a73d0	12.0	5.0	4.0	1.0	0.0	0.0	3.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae
+d549975a84b22a5ee9a06ef112aff17db1c4efe1	2.0	4.0	5.0	0.0	3.0	11.0	3.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea
+332c277d74804f5a7acfb25ce8a7f7de95033b82	2.0	6.0	0.0	0.0	0.0	0.0	0.0	18.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__Uncultured_marine
+ded8bda0ec96398d288b9b3a092f88ca0a8883ee	5.0	6.0	1.0	5.0	2.0	0.0	6.0	0.0	d__Eukaryota
+106f83fd0ca4ebe35c1ca3c75faa3d5c19c72400	19.0	25.0	0.0	0.0	2.0	0.0	7.0	1.0	d__Eukaryota
+c9e6677f072e7babc5df35d2176bf7aefb7d7fe3	1.0	7.0	0.0	0.0	0.0	0.0	0.0	11.0	d__Eukaryota
+fd4b326acbdd93aa01a0bde0dfa9dd0c7e7c6469	4.0	13.0	0.0	1.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora
+266d7ad882b4eafabb4d4278dc10cf073d350ed1	0.0	0.0	19.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__Pseudopirsonia
+3c1a4431cb5168c6d0846f459fc6c000a2fbbb65	0.0	0.0	23.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+2cf1c9657c2b3cc0ee795fa13c99ba0389bfef7e	0.0	0.0	8.0	0.0	1.0	0.0	0.0	16.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Thaumatomonadida; f__Thaumatomonadida; g__uncultured; s__Cercozoa_sp.
+43be1e05d2359222a595da50c495740479658401	4.0	0.0	0.0	0.0	12.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Phytomyxea; o__Phytomyxea; f__Phytomyxea
+302b5480f8e20cae3566f639e09323905ced4fe1	18.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALVII_Guillou_II.3_4
+fd42d711b95fa504e6c6438842423a2576d3f792	6.0	3.0	0.0	0.0	11.0	1.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida
+cc511724f2c6c7a9c8dcdad645a0a4af2591b90a	2.0	23.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Fungi; c__Fungi; f__Chytridiomycota; f__Chytridiomycetes
+08135b9162f7aa7ccda735d2e4abdbf9c43d662b	0.0	19.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+8a4c922d3cbc4c9a30f89ce3734adaa48b773968	0.0	4.0	0.0	0.0	0.0	1.0	0.0	15.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Cryptomonadales; f__Cryptomonadales; g__Cryptomonadales; s__uncultured_eukaryote
+e8b8f31f47432c55284ae6f0f165394dd24140e8	5.0	0.0	0.0	0.0	0.0	1.0	0.0	15.0	d__Eukaryota
+b4a1bc51b79e165978a732daf29370a7eb7b974d	2.0	4.0	5.0	0.0	5.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__Pseudopirsonia; s__uncultured_Cercozoa
+4922c3722ab6572b7af8ff4897b627db2ab40441	0.0	0.0	11.0	0.0	0.0	0.0	1.0	7.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida
+44c2eaa84623e0164e3102c21f35c4b196cfe195	11.0	4.0	0.0	0.0	3.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida
+0b4c3ca4ef7128740e022c2d247662c8f32c0a96	4.0	3.0	3.0	0.0	0.0	1.0	0.0	6.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Cryptomonadales; f__Cryptomonadales; g__Cryptomonadales; s__uncultured_Cryptophyta
+84d6ad91d27a913eb49a9391636e7abb94b824ac	19.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+ebce06e7fad91383686e7718853e2dbaec0ff213	1.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2; s__uncultured_Cercozoa
+48cccef05952d8e63b1188fe1607b5443c816a8b	1.0	6.0	2.0	13.0	8.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__Pseudopirsonia; s__uncultured_eukaryote
+2b21d09d631a6fbdd4f441a7bd56a7a7127155b0	0.0	3.0	10.0	0.0	0.0	2.0	3.0	1.0	d__Eukaryota; p__Retaria
+2be2f6727e2599c42c5c45877f5f448e192e4cbd	1.0	0.0	0.0	5.0	19.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Ichthyosporea; o__Abeoformidae; f__Abeoformidae; g__Abeoforma; s__uncultured_eukaryote
+225f1f54568eb753b1bd367585dd57f6a1db79bc	0.0	1.0	0.0	0.0	0.0	0.0	2.0	29.0	d__Eukaryota; p__Holozoa
+627ee63815381fd1a2d008b00616d98d1a72badb	15.0	4.0	0.0	2.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora
+bfb371bff8b72c88f85c3693fdd3518205a17a78	1.0	6.0	0.0	0.0	0.0	0.0	5.0	3.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae
+bb5509131df1ddc63e1702edff4f2d033635bed9	0.0	0.0	2.0	0.0	14.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-6; c__MAST-6; o__MAST-6; f__MAST-6; g__MAST-6; s__uncultured_eukaryote
+33b1c4535b0cbfb52e21c9ed260f295fd71d46dd	0.0	0.0	11.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Ciliophora
+8ba379a79d2aa4500f758245933caef0e8be9795	10.0	0.0	4.0	0.0	0.0	0.0	0.0	4.0	d__Eukaryota
+92eb8a6697a2255ca13159cd13e31996e5e84cce	12.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+c1c8f3b13b3c1534bd44f712fcdd0e9f6d68dec3	1.0	3.0	2.0	0.0	0.0	3.0	0.0	3.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae
+6816c5234bf56c0cc16450d3d91dcf4e21733218	2.0	0.0	0.0	4.0	14.0	0.0	0.0	0.0	d__Eukaryota; p__Stramenopiles; c__Oomycota; o__Saprolegniales; f__Saprolegniales
+2458e6f23dac105b852d6ebc365da8d69501f3ab	5.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Cercozoa; o__Basal_Group_T; f__Basal_Group_T; g__Basal_Group_T; s__uncultured_Cercozoa
+cf12311d29f281a1958676ba394aaa71707e7355	1.0	2.0	4.0	0.0	0.0	0.0	5.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Codosigidae; f__Codosigidae; g__Lagenoeca; s__uncultured_eukaryote
+8b299788e2f74e93348d453ab26bdaa522dd4c0e	0.0	3.0	0.0	2.0	0.0	2.0	3.0	6.0	d__Eukaryota; p__Cercozoa
+361c83da26ac0e69a116d16e7235007f5bb5fc98	0.0	0.0	11.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+eb1d48792d3c9a0b4862ca514c541629d94028c8	0.0	0.0	0.0	0.0	0.0	20.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Chlorophyceae; o__Chlamydomonadales; f__Chlamydomonadaceae; g__Chlamydomonas; s__Chlamydomonas_klinobasis
+d2dd826ebeaf10b2ff4b5413e53b4f75fba364be	0.0	0.0	0.0	0.0	0.0	0.0	12.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa
+b2459e0584a82e43b9590d7e2b9481548f62199b	0.0	0.0	0.0	0.0	0.0	0.0	0.0	13.0	d__Eukaryota; p__Ciliophora
+b517f482497029daf2ad51141b5dacca1f51b318	14.0	13.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+d85eb52c54e28d44c663b5b770dbbb74dc85bca9	7.0	8.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea
+68a12f459143cf69f93d447e6f3752298e0874ad	4.0	0.0	0.0	0.0	0.0	0.0	0.0	9.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALVII_Guillou_II.3_4
+101de0d40ca052d12c7878f3230d1b82a7dac611	7.0	3.0	0.0	1.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta; f__Chlorarachniophyta; g__NOR26; s__uncultured_eukaryote
+f64ed85eae64b47a13798045fb8a84fbdfda37f3	9.0	0.0	0.0	0.0	0.0	2.0	2.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Cnidaria; s__Gilia; s__Gilia
+d9d11cedfa54bff271b3d57906e9787cf858bdfb	4.0	19.0	5.0	0.0	7.0	0.0	4.0	1.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida
+3c31857ea12136648ef48c511be2654928171ca0	9.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+20bebfbf9edff7e538c4107f92bc80fd0dfebccc	19.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+d940116a5b27142e99fb8ce95917308f5c3f3144	0.0	3.0	0.0	0.0	0.0	0.0	8.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae; g__Holosticha; s__uncultured_eukaryote
+1cd231e771a13c394015d72248c567053e7ee2e7	0.0	6.0	3.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__Dolichomastigales; f__Dolichomastigaceae; g__Crustomastix
+40f12eb7fab0b9159bfb7f61dbc481000143fb86	1.0	12.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+d7e59b7864028d16f422bd5a54f303fb026b58fd	8.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+4a4ccd2f882d7596385bd45261248963c8a32561	14.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+6cc17076b343e9a693d0261e39367adaf46341a2	12.0	3.0	0.0	0.0	5.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Copepoda; g__Oithona; s__Oithona
+aee4652f28c0cb6254ac923e022c340bc0615063	6.0	12.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+600d44acb144079e76f9aa1c1575d02a25daad42	2.0	14.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+1ed36448c9d9c31449e8d43492a17a5016334253	12.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+02118336bb9ce04055209b53372a95df8d228647	1.0	2.0	1.0	0.0	0.0	0.0	2.0	7.0	d__Eukaryota
+c36306638447e672ed37782b74584ed0e56d233c	0.0	2.0	3.0	4.0	0.0	2.0	0.0	1.0	d__Eukaryota
+c690ddd4d4a41041be92f8f229c728febdfe9386	2.0	0.0	14.0	0.0	0.0	0.0	2.0	1.0	d__Eukaryota; p__MAST-2; c__MAST-2; o__MAST-2; f__MAST-2; g__MAST-2; s__uncultured_eukaryote
+eb2bbad4763f8409bfe700983706d83bede54ada	1.0	3.0	0.0	0.0	3.0	2.0	1.0	4.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+346a61de5075ef3fcdae8ad0fd050aa75e9ff036	3.0	11.0	5.0	10.0	3.0	0.0	0.0	2.0	d__Eukaryota; p__MAST-7; c__MAST-7B; o__MAST-7B; f__MAST-7B; g__MAST-7B; s__uncultured_eukaryote
+2429abb5c0b3af7aa6b2c6c747d5d7e8282f275d	1.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__Euduboscquella_sp.
+eb09082a36e466f8c167397d672bb473d1094207	1.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cnidaria; c__Anthozoa; o__Ceriantharia; f__Ceriantharia; g__Ceriantharia; s__Isarachnanthus_maderensis
+0290ba87a6bd9fd3bd30f0140c29ecaa86eabe43	17.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+ac1fc7e251e994dd3581570cc3b96577f329dfd5	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mammalia; g__Homo_sapiens; s__Homo_sapiens
+dc6631b2f545602e90a4d6d9b6edbff97e84e5b2	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Tunicata; g__Molgula; s__Molgula
+90627908822314e6dc477e1c4182ed20f67eb06d	3.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Cercozoa
+716a409924a6e4d55a63a6fcbb8bfac7ffcb78c5	3.0	5.0	0.0	0.0	6.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Filasterea; o__Ministeriida; f__Capsasporidae; g__Marine_Group
+7a5c60d8e7626387d84b4132294e0a53d229e00b	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacaceae; g__Gonyaulax; s__Gonyaulax_fragilis
+52ed142a01ad231a4ebfb038d4d1e72855ec1d16	4.0	12.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida
+5058aaca215237f9083b07e0621d34f590fa201b	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+32a6883c19d72a8cf6120e5c21c3bfd74396f17e	5.0	30.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Retaria; c__RAD_A; o__RAD_A; f__RAD_A; g__RAD_A; s__Porites_astreoides
+b194d807c5fdb2a79f28bffb5c90b6ef6bad803f	1.0	8.0	1.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Ciliophora
+a7f38e2445413c0f3ff9dfd76578f13efdf8d8de	0.0	2.0	3.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Oligotrichea; o__Choreotrichida; f__Choreotrichia; g__Tintinnidium; s__Tintinnidium_cf.
+204f4737cd9997ec0bb9c9beb2c8dd52601ea723	0.0	3.0	1.0	0.0	0.0	0.0	5.0	1.0	d__Eukaryota
+99dfb30922e950b1733552b1b15fa27c2e6903cb	0.0	0.0	0.0	8.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Stramenopiles; c__Stramenopiles; o__Stramenopiles; f__Stramenopiles; g__Pirsonia; s__Pirsonia_verrucosa
+8a85efd56066e29dd78f750de0cbb336f304fab2	1.0	0.0	0.0	0.0	27.0	0.0	0.0	0.0	d__Eukaryota
+dba524e95a63db69ee80e73e922f1fdf6e7b69e0	0.0	7.0	0.0	0.0	0.0	4.0	3.0	9.0	d__Eukaryota; p__Holozoa
+0717b9a0541bfc7db5ef44b70e052dd3ed90b700	4.0	11.0	0.0	0.0	0.0	0.0	3.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae
+c0d0304b8a0732518b49a8d70f0919b5332224bd	7.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Cercozoa; o__Basal_Group_T; f__Basal_Group_T; g__Basal_Group_T; s__uncultured_Cercozoa
+995b8eee60f8d333e734a8354cbd6bbc20b2b58c	4.0	2.0	3.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALV-2_Guillou_II.39
+761a048b7787150c75004b3dc4975e08e8b07a11	8.0	14.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida
+ac367ebd4c25a6dbbb8008cd9116d58222bc671b	7.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+223c6dbd73bc477f1d25c81306c1f409e50dcc52	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora
+c2a2ea73c792cd55d1d74fa716d5575915e4371e	10.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+2bd144e7ab96c7c419eddea392038878464e553a	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+12b94d116fd2069bd439791a23792f3877f8aa16	2.0	1.0	0.0	0.0	0.0	0.0	0.0	4.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+148cd46992fa4ef4d402e37f9915f689366257af	2.0	3.0	3.0	0.0	0.0	0.0	0.0	3.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Geminigeraceae; g__Teleaulax
+8efd57ed0cfd751dba2b66dc56cfe9e61ac1758a	7.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Oligotrichea; o__Choreotrichida; f__Choreotrichia; g__Tintinnidium; s__Tintinnidium_cf.
+01fcc6c184b135bf1438934d7681ecf64f8f8b89	10.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae
+e071516cee1f146999e17c6eeb257c7045c5fe82	9.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales; f__Peridiniales; g__Protoperidinium
+cceccc8f00b5063583064b6e6c2f78df23001761	3.0	12.0	0.0	0.0	2.0	0.0	0.0	5.0	d__Eukaryota
+12726d062f0f276ac9f80354ac0d0d7aa2c47ed3	1.0	2.0	0.0	0.0	0.0	0.0	0.0	4.0	d__Eukaryota; p__Cercozoa
+a0984299e18f1d116e6515e474b21e96a64d75dc	1.0	0.0	0.0	3.0	4.0	0.0	1.0	1.0	d__Eukaryota; p__Labyrinthulomycetes; c__uncultured; o__uncultured; f__uncultured; g__uncultured; s__uncultured_eukaryote
+b898a881eb30ea2914f4ef7db2f05de0a8386dda	2.0	11.0	0.0	0.0	0.0	0.0	3.0	0.0	d__Eukaryota; p__Ciliophora
+fb07da3e805e809c6657d4959f97868b11d7706f	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Kathablepharidae; c__Kathablepharidae; o__Kathablepharidae; f__Kathablepharidaceae; g__Leucocryptos
+93e82339c6800bbd4339abd3d57c44d8913a36fd	1.0	6.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Ochrophyta; c__Bolidophyceae; o__Bolidophyceae; f__Bolidophyceae; g__Bolidophyceae
+fee302e4a4edfcafb3b6bb41f2517275bd987461	0.0	9.0	4.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+f8e86fcfe9c8309fa92c97b72b2bccbc20e4b299	0.0	2.0	4.0	0.0	0.0	0.0	0.0	4.0	d__Eukaryota; p__Chlorophyta
+b11c4fca79bcc5980e81513c3901d40468166475	0.0	0.0	6.0	0.0	2.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta; f__Chlorarachniophyta; g__uncultured
+4b83789d2d2476ba4026e4f29776a0e26b7ee2b3	0.0	0.0	10.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+371374c56a0240598255f1f07f3b8b49c3feb5c7	0.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida
+179efc33c859c8e1f16b3e1b67721b5beaeb9618	0.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__NAMAKO-15; s__uncultured_marine
+0c84367db2936ecaa15356e124cc439aa661ce37	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+c5f62dbcd2ba401d3cb797dafd32bcedd41c350c	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	d__Eukaryota; p__Lophophorata; c__Rhynchonelliformea; o__Rhynchonellida; f__Rhynchonellida; g__Rhynchonellida; s__Notosaria_nigricans
+642baad4f177d6e28c8c5e0f5d2c58915f528ba2	0.0	1.0	2.0	0.0	1.0	0.0	0.0	12.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+0fc25695a7c9f90f36995e32fd6d98fdc351b929	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Hartaetosiga
+481f329f4a6f4e90ef8bbd5cc21da7f4a5d5150c	0.0	1.0	0.0	0.0	0.0	0.0	0.0	8.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Cryptomonadales; f__Cryptomonadales; g__Cryptomonadales; s__uncultured_Cryptophyta
+99a1cf6110444797469055042fb1811d351b975c	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__Uncultured_marine
+b7452dae6f6ce9f54dd928b040d48622f4e523b7	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+e070952837d07c168c6607d744e29f8991cb6130	12.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Retaria; c__RAD_A; o__RAD_A; f__RAD_A; g__RAD_A; s__Porites_astreoides
+daa01a542d9c1e2569f2859d77ebd27baa642bcb	3.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Phytomyxea; o__Phytomyxea; f__Phytomyxea
+1926f2700525f93297c14030fde07cde4f76311b	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+f8e1fb175f0e1f553339bb9b2e991a96479b7709	6.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Lophophorata; c__Rhynchonelliformea; o__Rhynchonellida; f__Rhynchonellida; g__Rhynchonellida; s__Notosaria_nigricans
+5144a869a0854233a14130af0547beb0aefbc234	5.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Lophophorata; c__Rhynchonelliformea; o__Rhynchonellida; f__Rhynchonellida; g__Rhynchonellida; s__Notosaria_nigricans
+00470c6739cc2bc9cd8715919982c79831d1253b	12.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+98f364e6b586398183811855a8ece09a97d34a7c	2.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales; g__OLI51059; s__uncultured_eukaryote
+e6ecbafb0a055020df4c67868064d63463481e06	2.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+cd89cca9728db03774d054e07cdaef239f2f1487	8.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Stramenopiles; c__Oomycota; o__Saprolegniales; f__Saprolegniales; g__Leptolegnia; s__Leptolegnia_champmanii
+cef54472b84d9826b1ce806b441ee36e41683d08	6.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Retaria; c__RAD_A; o__RAD_A; f__RAD_A; g__RAD_A; s__Porites_astreoides
+643fd0e582d40bd00df9cfa2073ecd3543078023	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+6118cb611f68a8b29e795d37376cb48e9b2b2978	4.0	0.0	0.0	2.0	0.0	1.0	0.0	0.0	d__Eukaryota; p__Ciliophora
+9a40765e9cc42b84a8de70331a787f3178215a1d	3.0	2.0	1.0	0.0	0.0	0.0	0.0	5.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+33da4f39941fcb6511baac230b7d59cc11e489e2	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+b28a29103e51b1c9a9c966133e3d494db26c0f58	2.0	0.0	6.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta; f__Chlorarachniophyta
+c81d3c5a948f40d90cd805c324a6a037ceaad680	1.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__uncultured; o__uncultured; f__uncultured; g__uncultured
+76fdc921e0c1c2176d39af820216f5d1ea209b2e	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Phytomyxea; o__Phytomyxea; f__Phytomyxea; g__Phytomyxea; s__uncultured_Cercozoa
+33f322377c28039f3992f363688a4b5351597857	0.0	4.0	3.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Filasterea; o__Ministeriida; f__Capsasporidae; g__Marine_Group
+9baae79a8a361356b85b1ea7bf593fa985f85dc3	1.0	5.0	5.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Oligotrichea; o__Choreotrichida; f__Choreotrichia; g__Tintinnidium; s__Tintinnidium_cf.
+a94986fc498505a803e05c37fd9c2f416ec5ae37	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+b130768d27b5eaaa31603235497a91da45528472	0.0	2.0	0.0	0.0	0.0	1.0	3.0	2.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Ventrifissuridae; g__Ventrifissuridae; s__uncultured_Cercozoa
+c4b9f1cfff8b737c85138133efe5b0899d301305	0.0	3.0	0.0	0.0	2.0	0.0	1.0	4.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+c777c91add8826918133206d25893c119508026a	0.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2
+69eb09191792e1cd2ed67a81df66f0a5dbc0d904	0.0	0.0	7.0	1.0	4.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Chrysochromulinaceae; g__Chrysochromulina; s__uncultured_eukaryote
+a306d9f207b42c0bb6497af485f38a4a8f1023af	0.0	0.0	7.0	0.0	0.0	6.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Bacillariophyceae; s__uncultured_Cylindrotheca
+6480a8c4eabf9ff2dad1daa33a9d820b584b56cd	1.0	0.0	1.0	9.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Copepoda; g__Calanus; s__Calanus
+79f499eeff4795d7a60b109b2ef023b004895f0e	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae; g__Hypotrichia; s__uncultured_eukaryote
+d54f94760c2adc6fa9e82c4ef62fff92790e0df6	0.0	0.0	0.0	0.0	0.0	5.0	0.0	1.0	d__Eukaryota; p__Kathablepharidae; c__Kathablepharidae; o__Kathablepharidae; f__Kathablepharidaceae; g__Kathablepharidaceae; s__uncultured_eukaryote
+bb10b404837932d083fa008b7da35e94acb7d92a	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Ebriacea; f__Ebriacea; g__Ebria; s__uncultured_Rhizaria
+93d940ff585692aa563f08d059c058840a33e46e	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_eukaryote
+af50d8d89e3c24a21bde1a71a216ea7b33325509	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	d__Eukaryota; p__Haptophyta; c__Haptophyta; o__Haptophyta; f__Haptophyta; g__Haptophyta; s__Haptophyceae_sp._EE2014
+3fd9f17950f823448aae6f11b9ce38cb8f3e6b1f	4.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2
+025a5afa9af71a1e6656f4641e9b25bf32a11918	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+df4ab160cd87adbbdf793838bb12593a82989e02	3.0	1.0	0.0	0.0	1.0	0.0	0.0	1.0	d__Eukaryota; p__Haptophyta; c__Haptophyta; o__Haptophyta; f__Haptophyta; g__Haptophyta; s__uncultured_eukaryote
+bc7e63d6fe1c4751a169c4375e399e629896de5a	6.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida
+d8602a851df7d488e68ec1a1791dfacd4f4f7e21	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida
+6778438dd6688f64353a588bf85fd32846876887	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+9bb459692a87b8d43e693955f8995357d2cac09d	3.0	2.0	0.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota
+8df797e4d612c3c76b709da9ae925219e9724cd2	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Rhodophyta; c__Florideophyceae; o__Rhodogorgonales; f__Rhodogorgonaceae; g__Rhodogorgon; s__Rhodogorgon_ramosissima
+887fb5882b2e7cfaa8044a415a7b899835928e00	1.0	0.0	2.0	0.0	0.0	7.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida
+9e6cc08d5b52cece05fe09cbd2e7a379e30479a8	1.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+18fad3921e324383558aa62e9affc56ebcec4c9e	1.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae
+60ac0a9793687ad5024082e0228186513603cdd6	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+b595c977f1123c1f4e78b64e84ef79b6e367b693	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta; f__Chlorarachniophyta; g__uncultured; s__uncultured_chlorarachniophyte
+26d7c048f82f9cf403b49db6cf2ef14d54762bd3	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora
+7ab04e5de30f6f8822fa615d0b3ea82d25fc19e7	0.0	1.0	0.0	0.0	0.0	0.0	1.0	2.0	d__Eukaryota; p__Stramenopiles; c__Stramenopiles; o__Stramenopiles; f__Stramenopiles; g__Pirsonia; s__Pirsonia_verrucosa
+8d850b715523cf7381e2bc8201a0b125721a5102	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida; f__Stephanoecidae; g__Marine_Choanoflagellates_2; s__uncultured_marine
+5f8ca2c755f443ea2821320ce778cb0a6c186d6a	0.0	0.0	5.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Holozoa
+03279ff8e019ae44176974b4020925bb654ae9b6	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida
+0001fbf192576eca9630e5cd1fd627534516e8c6	0.0	2.0	5.0	0.0	1.0	2.0	0.0	4.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida
+2e13b9822d80a8bd78b600b5f9f1a0aa62b5da9b	0.0	0.0	0.0	9.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa
+031149915c7d1edccb4f6bc07bddf50f25b76222	0.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea
+33b206c14d204bcf329950a4321e3658b7dbd8e5	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	d__Eukaryota; p__Cnidaria; c__Anthozoa; o__Ceriantharia; f__Ceriantharia; g__Ceriantharia; s__Isarachnanthus_maderensis
+9e0c8902dfbea2e759bd981be3ed15bf6c749b93	0.0	0.0	0.0	0.0	9.0	0.0	0.0	0.0	d__Eukaryota
+94e63bd48c04c1a8e0e2652bc6d229d3b9932648	0.0	0.0	0.0	0.0	0.0	1.0	0.0	4.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales
+434acf0a874f74c0dd35c1243153ec2d9a1408c6	0.0	1.0	0.0	0.0	0.0	3.0	1.0	9.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Codosigidae; f__Codosigidae; g__Lagenoeca; s__uncultured_eukaryote
+f0ffa3bba6ddd05198820377739eb7b3a127bbc3	0.0	0.0	0.0	0.0	0.0	0.0	4.0	2.0	d__Eukaryota
+368bfd2f845d441122347b99353df7ecf560ac7e	0.0	0.0	0.0	0.0	0.0	0.0	2.0	2.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Salpingoeca; s__Salpingoeca_infusionum
+6547a5aa746d96a2f529f0814ee7f74f1e9740cf	1.0	2.0	0.0	0.0	0.0	0.0	0.0	9.0	d__Eukaryota
+33c4bacbe5db81394485f971004855d1a73cc17a	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+8fe7ca94e842c4ea8349d37dc94a0b34e0ad8c04	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+d5af1a17b8b5a32a692cc2ee15aa39e24859fe22	2.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_marine
+2107149df38e9154af64ace1d374c0e7dbbac00b	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+32aea7b89b46a29f7bebb1953f8146348f9c821b	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+f3f9d35a73f9a40ec73628093465c4f8b6e93098	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Filasterea; o__Ministeriida; f__Capsasporidae; g__Marine_Group; s__uncultured_eukaryote
+e0aade66f9b3568238b020810cc71fd18e00780a	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Retaria
+105c9375ef8d8d58f5fd2487a6813173513b39d7	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Phytomyxea; o__Phytomyxea; f__Phytomyxea
+b6c08b32925b898177d0f6e4c6a825bf6fed0405	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+d19f0cfec7168f60d60d1ea0136951d21ee4f538	1.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae; o__uncultured; f__uncultured; g__uncultured; s__Chrysophyceae_sp.
+70d1fc2838acffcc2d839a5a48acf990db4211b3	4.0	2.0	0.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida
+c815730f613c9752630cc3d77c71eea8b69656b5	2.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+e490f2794d0835061a0f4eb7a7c3e0acf3fb1028	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mammalia; g__Homo_sapiens; s__Homo_sapiens
+addfbbdf3dfc70337c35833767401ad38d79a8d7	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Protaspa; s__uncultured_Rhizaria
+3a5c043b1f0e19f831cd3d0aa9c8b634fe04b5a7	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida
+1e63f8a459e1ff2db6056478df1da37436ea54ae	1.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+03b3a8162fb646788d41883567698c279780e386	4.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+8240ec003c6f20afa1b601bcfa3397d6104a9ce2	2.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros
+cc48f6bca682d71b339827357ad9da15ef8b0f9f	4.0	1.0	0.0	0.0	0.0	0.0	3.0	0.0	d__Eukaryota
+2dace0cfc354e85696846a829c83ca2b165d192b	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Pyramimonadophyceae; o__Pseudoscourfieldiales; f__Prasinococcaceae; g__Prasinoderma
+9b6d7d48467f73fd4a1c67616ec1da3ddce7337a	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+d8e05472026139e273e01b5f27f6f23d27790c66	2.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae; g__Hypotrichia
+b53e5fa9ab9c77767d5cd837a3da61ed06294cc5	0.0	4.0	1.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Ciliophora
+7985a1f8a0de5dfbe65308bccc42f3157779a627	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+6e03dff7ebabfe2bce87cbaf356ff11a5082832c	0.0	3.0	0.0	1.0	1.0	1.0	0.0	0.0	d__Eukaryota
+ae3c202dda77bdd6721a7b7fcf7690c9d3d472dd	1.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Chromerida; o__Chromerida; f__Chromerida; g__Chromera; s__uncultured_freshwater
+8a92cbd6ae5e0751b37556e68906e0dbb3f83fc2	1.0	5.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Centrohelida; c__Centrohelida; o__Centrohelida; f__Centrohelida; g__Centrohelida; s__uncultured_eukaryote
+60c405a6e7c4fae6e13a59a025feb6e5193dd5b8	0.0	7.0	0.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae; g__Holosticha; s__uncultured_eukaryote
+69160979e8d5d71fd10c911b0fbb45c67ec79263	0.0	7.0	0.0	0.0	0.0	2.0	0.0	5.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Geminigeraceae
+e128ee541fb9cf700fa4448e1b3ab1e7faeebdaf	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cnidaria; c__Hydrozoa; o__Leptothecata; f__Leptothecata; g__Leptothecata; s__Orthopyxis_sargassicola
+51d838da3a2670524bb16cf60f1b04880dc05e83	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+995d9f099036625cc07da7b8c7627bcdd2d03562	0.0	5.0	0.0	0.0	0.0	1.0	0.0	2.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Novel_Clade_3; f__Novel_Clade_3; g__Novel_Clade_3; s__uncultured_Cercozoa
+e43ade1f38aa2e485aaa1a9d1908c17df8273312	0.0	1.0	0.0	3.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cnidaria; c__Anthozoa; o__Ceriantharia; f__Ceriantharia; g__Ceriantharia; s__Isarachnanthus_maderensis
+14e9ec78af04d7fe729726a57565171c78489269	2.0	2.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Cryptomonadales; f__Cryptomonadales; g__Cryptomonadales; s__uncultured_Cryptophyta
+c8c61dfe7fda38f1005c20296aad690ef80e75b3	0.0	1.0	3.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida
+ed8ebf65952f451857dd2f0312c72dff8b0ea408	1.0	1.0	0.0	3.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-8; c__MAST-8; o__MAST-8; f__MAST-8; g__MAST-8; s__uncultured_eukaryote
+d29aafb1a3f9b77b6cbda85c7959147b1c232e05	0.0	2.0	0.0	1.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Labyrinthulomycetes; c__uncultured; o__uncultured; f__uncultured; g__uncultured; s__uncultured_eukaryote
+9e723c13ec256b5b38085236c3e208eae76934f9	0.0	1.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta
+c467f57b8f2ccf98843f7f313e03ceb1420203ac	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALVII_Guillou_II.3_4
+bba1ca18fe2fa17ef86594706870052c250ed8b0	0.0	2.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__Pseudopirsonia; s__uncultured_eukaryote
+49ff52c1d717d6f49fbb492a131484f79a18ab06	1.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+12808eb1ed1bd134c38504a4b6deb8fb5eeb5a2b	0.0	4.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales
+07211f04b31f4d0630c6d7b8d3c31c8176ef935a	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae; g__Holosticha; s__uncultured_eukaryote
+01c580b2e4295074995453e7e831979f07a46526	0.0	0.0	1.0	0.0	1.0	0.0	0.0	1.0	d__Eukaryota; p__Ochrophyta; c__Dictyochophyceae; o__Dictyochophyceae; f__Dictyochophyceae; g__Dictyochophyceae; s__uncultured_stramenopile
+8eb21d9627384740b1ba7cd8ac4310a03e3a44bc	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae; g__Hypotrichia
+0f20a64bc3023a7020a61f1280de5ed85abf15c7	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+20b8654ed928f1d96db4f4a002631c6133321311	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	d__Eukaryota
+75678bb240fb0ac7be8e69eb7e08efdacc82b1cc	2.0	2.0	0.0	3.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Kareniaceae; g__Takayama; s__uncultured_eukaryote
+6176235df5cee42ae108b14e0fc6e2163c100784	0.0	0.0	0.0	3.0	3.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Ctenophora; g__Thalassocalyce; s__Thalassocalyce
+1a361a80ba2db801d7046366e42728794ae42c31	0.0	0.0	0.0	2.0	3.0	0.0	0.0	0.0	d__Eukaryota
+419fff1bbd6264d781f81dd3735c113e4c63e9ec	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Thaumatomonadida; f__Thaumatomonadida; g__D2P04A09; s__uncultured_marine
+d2956b9ef50ed74ad90ba0ab49a7216e48235b46	1.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__Dolichomastigales; f__Dolichomastigaceae; g__Crustomastix; s__Crustomastix_sp.
+4fa517b570c2574f9afbdc32100c2bfb0f6f2ec3	1.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	d__Eukaryota
+d93cb3953603d8a05cae2423d22aa250d2d1fb39	0.0	0.0	0.0	0.0	5.0	0.0	1.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+6f1524dfc5ad0e5541f1886f3a71437a77bd0c6a	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	d__Eukaryota; p__Ochrophyta; c__Raphidophyceae; o__Chattonellales; f__Chattonellales; g__Chattonella; s__Chattonella_subsalsa
+685d1a68f125d30e4ce772b65e9a02361694175b	0.0	0.0	0.0	0.0	0.0	4.0	1.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida
+97e0a975692ce11fbc59cb69373cde3491607cb5	0.0	0.0	0.0	0.0	0.0	1.0	4.0	0.0	d__Eukaryota
+1880eb43e4fb863388f7173cb9275467a6b83f82	0.0	0.0	0.0	0.0	0.0	1.0	2.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida; f__Stephanoecidae
+cd029eedeaf342a7614cc6e7ca0ce6c4a6028e14	0.0	2.0	0.0	0.0	0.0	3.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+747a508d90ea0f5eb8bc676a14014033b3b9066f	0.0	1.0	0.0	0.0	0.0	0.0	3.0	0.0	d__Eukaryota
+4d8f1d19ffbd98c9c678cdcddd484d2a2c75d582	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+4b97e5690b8c2468e4427b484ffd433b267e642e	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+004e78584cc08b29a9d8f019ad781f8d3e36e6bb	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+717285038118cf9349df2cb0e1eb893766c4dd33	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Coscinodiscophytina; g__Actinocyclus; s__uncultured_marine
+8a39d23db587dfabadc8a698a9bcc4922f81e949	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Trebouxiophyceae
+d45bd93d31740fbf98ffc3595129b63161843e85	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales
+d5ba7f05f707edac29b3e0f5c3ba37de0d4b0e56	3.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+ade1981952d30806e417830e98d0ac7587bb455f	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__phytoplankton_environmental
+20018bd7d9f7950a6fa194706f3296f91fb7df74	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-8; c__MAST-8; o__MAST-8; f__MAST-8; g__MAST-8; s__uncultured_eukaryote
+91647585cb3301c1ef417973ec8293ad1650a9ee	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Retaria; c__RAD_B; o__RAD_B; f__RAD_B; g__RAD_B
+6cf0213237ccc0b6b12a9a4aa8a82869a2c323ee	2.0	2.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__Mamiellales; f__Mamiellaceae; g__Micromonas; s__Micromonas_pusilla
+0530b9ed3e91868945fab678502a7f09103f38b8	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__Pseudopirsonia; s__uncultured_eukaryote
+1cb850a737ca84e46177ceecfca982736fe3f778	3.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa
+0b0fbaec8e504540aa526efc23d69c606fb71087	4.0	10.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_rufescens
+52e82439e0583b3fc77a7d104b5fcd8df4e54459	2.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae
+92b88a1e2d6fa4dc68482d562cfa157dd4318f58	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida
+4f4f12bb88dadc27c55e7aa03346a0ab6b453d93	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Pyxidinopsis; s__Pyxidinopsis_psilata
+f879b568a8f75d8558d5a578476aabe593e0db71	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida; f__Stephanoecidae
+5194f5a2c2bd756aa5ba77e08ed60392197d1eb8	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+18ba6c2a8e0935666c5561c67b4779c76e0a9689	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Ichthyosporea; o__Abeoformidae; f__Abeoformidae; g__Abeoforma; s__uncultured_eukaryote
+5a76e1e55cbf64bff3e7b17422b2f0a8a50052eb	2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2; s__uncultured_Rhizaria
+d12d6e30c400cee72d617159f9c29de639df33d6	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Ventrifissuridae; g__Ventrifissuridae; s__uncultured_Cercozoa
+06f5b0571b305e8bb74587c89c350e33abd451fe	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+7eea20bae2bf611a9c767e7fa8b8338df58eba9b	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+d0263964110ea0f7161f6a7cc7ee5804347a1078	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+90b6e78a6628ac70d220b279ca2195cf9693bcee	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+3f1e6f8814cf59febd7289d301f78c673e17ff0a	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Oligotrichea; o__Oligotrichia_Oligotrichida; f__Tontoniidae; g__Pseudotontonia; s__Pseudotontonia_simplicidens
+79d9bc2c47ea87077827ad7028291c954ec20655	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora
+3623d19b6e5e68b4ce398223bf711d6b47974145	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae
+12f9f7da91751248adda1fb06f1191bfd93c598a	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa
+2eec9e9ece8d6fe15b79617c3f1df325dbd21228	2.0	1.0	0.0	3.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa
+01fbc544ce4decfc3b046a18ab9a8c1b2ea185b9	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+0a8e2b4c211a13ad71f62ddc282c45331c6ea415	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2; s__uncultured_Rhizaria
+9e22251225e10476396f72d4cc6df25b02255f12	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+31a5b1b055a6b7f8ee097e36de1ec760936dfaf4	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta; f__Chlorarachniophyta; g__uncultured
+49bc164c8b65bfa26c047ceeef174aec17282520	2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+3e33384d730b68171553cdd9d661127baf672b27	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Thaumatomonadida; f__Thaumatomonadida; g__uncultured; s__Cercozoa_sp.
+6780a4e54c699b7b576daa1e6b5833d76e4d4188	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+05b36b509ea05b86dd5a2553c27e21de86dea186	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cnidaria; c__Hydrozoa; o__Anthoathecata; f__Anthoathecata; g__Anthoathecata; s__Sarsia_lovenii
+e1bb6758bcf45754ef2162617a9ab69beb28a778	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+7128d615a90ea7b25ba18ac62e0b950b458aeb17	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Retaria; c__RAD_A; o__RAD_A; f__RAD_A; g__RAD_A; s__uncultured_eukaryote
+bc04d0006d0134f37c833c671b7d1dd31f92b688	4.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Apusomonadidae; c__Apusomonadidae; o__Apusomonadidae; f__Apusomonadidae; g__Amastigomonas; s__uncultured_Apusozoa
+bc6fbf1f8f959c2fb21c17513af19cdeb209d48a	2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+64195168a4aae0c92cd9905eab6f614f984ecfb8	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Trebouxiophyceae; o__Trebouxiophyceae; f__Trebouxiophyceae; g__Trebouxiophyceae
+bbc60bc1b39fd7731a4095346d2ab86a8a1ae9b6	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+1d6521d4f9b33413b8339e55b333909dd7a2f671	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Cnidaria; g__Aglantha; s__Aglantha
+e543cae76948086588c070f4b77d55a28c66194d	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+5818e65f92c70ba432c1543adebd985cb7640f1a	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea
+003996d6e93d24a50ccf949749af1829ff223a3e	9.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Tunicata; g__Molgula; s__Molgula
+063dc24efb648e44aaba0046d91719c0311f5ce9	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae
+aab35d0f2d1e7692a314295e1698f99cdd43df27	2.0	1.0	0.0	0.0	0.0	0.0	1.0	2.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_rufescens
+ba6ab93d67a5a893a5d8fe361ca13f457e4b116b	2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+b2f8477da724125f8756258f040b622924d6ed5e	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Pavlovophyceae; c__Pavlovophyceae; o__Pavlovophyceae; f__Pavlovophyceae; g__AA5F1
+a72e706af656ccc7418bcbadd341de7c200e9bc5	2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+268f4c88773e3b67c186343b8f71ae14b48f6a8c	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Apicomplexa; c__Conoidasida; o__Coccidia; f__Eimeriorina
+0a52ac8c255b9d371b34e8c6f5495cc62b22f135	2.0	0.0	2.0	1.0	2.0	0.0	0.0	1.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__Pseudopirsonia; s__uncultured_eukaryote
+938a9afd95e84c88eb284ab2870e61e5a0ae6538	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Oligotrichea; o__Choreotrichida; f__Choreotrichia; g__Tintinnidium; s__Tintinnidium_cf.
+97e26122ebce53403dff9e08af6fd18e0d03da21	1.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Ciliophora
+3dd69444dbf89b4e91ac455b869d716f8b89fc82	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Labyrinthulomycetes
+e83196a022ccd891e18a2394bfad0c88f5264300	2.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+b908dcb3bc41c86f895ddbbb3f5f570ccd119db6	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Oligotrichea; o__Oligotrichia; f__Oligotrichia; g__uncultured; s__uncultured_eukaryote
+134f3a15f1601abc31caddd5bf547ac01e1dff18	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+e385f464cd5918eb9c4b5fee4a53cb7a058be767	0.0	3.0	0.0	0.0	0.0	1.0	0.0	0.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_cryptochromatica
+eebfae0828f2de3119d006f609922645c887dfdb	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALVII_Guillou_II.3_4
+f5e110d094bda891a54c7b8f4802b7b477208a81	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ochrophyta; c__Raphidophyceae; o__Chattonellales; f__Chattonellales; g__Heterosigma; s__Heterosigma_akashiwo
+f17e70bd5862bab32e1f4322b2dfd1d92c5af687	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora
+243197f2b23c98ed4028537f47d62b1553a40b7f	0.0	5.0	53.0	0.0	0.0	3.0	0.0	0.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_rufescens
+993abefbbaadfa079701df1afd2220000dd76277	0.0	4.0	3.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_mitra
+862d05488b0b38b7749d6aceb619145705e968e9	0.0	1.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured
+d682ca128b41b00787a597b10fa24dce6ae5edfe	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae
+d8e432f4635af7ae16a675201e14ed8711bbfc7b	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros
+83c3162a7023e0b995235375bff91f71bd1b629e	0.0	2.0	0.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+4d6a95bc6425e43cc728903248815b3f2f69fd7a	0.0	3.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Metromonadea; o__Metromonadea; f__Metromonadea; g__Micrometopion; s__Micrometopion_nutans
+e251088fa6f8762a7af8246b792ac4f1860976f1	0.0	7.0	1.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiophyceae; f__Prymnesiophyceae; g__Phaeocystis; s__Haptophyta_environmental
+778eaaf5a63be33e7c82df6f9752674e8a09d2f4	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_sp.
+8c85093bfb202ceb0c00a8815d3efd6ddbe35185	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Rhodophyta; c__Porphyridiophyceae; o__Porphyridiales; f__Porphyridiaceae; g__Porphyridium; s__Porphyridium_sordidum
+2228b7902843084b9c2b6f55a360ec373385d3fb	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+e868e5979f79fc43c851c32f6ec5635e35d1241e	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Geminigeraceae
+27f793efd8772471fef043c3ffb86c7f531fd33c	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+ed419c7d26949984a3b08e85a09f7118e0845053	0.0	2.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota
+8905923978084171819812791b910569bc55d91c	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Philaster; s__Philaster_sinensis
+0abd7d863edd39dd7e4e50789f78778af3eba69f	0.0	2.0	0.0	0.0	0.0	0.0	1.0	2.0	d__Eukaryota; p__Holozoa
+3e2f6d7c4fb76d2840fff1aebf4338de420c9ac2	0.0	1.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae
+c0f03db3d85a8a308d364662872ea8d0ab914c71	2.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALV-2_Guillou_II.5
+d402286e1eee548fca45478d68a034d043a9f893	1.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Kathablepharidae; c__Kathablepharidae; o__Kathablepharidae; f__Kathablepharidaceae; g__Kathablepharidaceae; s__uncultured_eukaryote
+d4a7376a4e4d16725b3b0ce05c7c187adbd7ac30	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa
+132b5ab2fda973b629783daa5511844ebf136ce4	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae; o__Chromulinales; f__Paraphysomonadaceae; g__Paraphysomonas
+dbee29ec5196577f348c07217db3e32c461261d4	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+5fb78ed49989676badb6845d08eb036412a9faab	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+576a42a3ddc3d01bef3a007c9dc0517c1d9835a7	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+a0984a9cad4a225a1f2ccadfb40f0392fab72e2a	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+a7c9a32ae4ab444c7495511340247062f38d75d4	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+abae4134488da67438dc2353a6834b7611cf2ed3	0.0	1.0	1.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa
+747006a96c86502445565980fea1b04e9ded27e7	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae; o__Chrysophyceae; f__Chrysophyceae; g__Chrysophyceae; s__uncultured_eukaryote
+d382043c804013115223e9045f031e1ae7a72939	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+6cf62c51c6faf37ba24cceed82fbb426890b2f4f	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__uncultured; o__uncultured; f__uncultured; g__uncultured; s__uncultured_Rhizaria
+cfd4d2b8f85280c8a07d488dfc23802a2fc2d794	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae
+8dc765e7a0db7b3c950396769d9168ce7a00b7f2	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__Dolichomastigales; f__Dolichomastigaceae; g__Crustomastix
+f860e4e787b3aa57ac0bc70e730ee365836290ec	0.0	0.0	2.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema; s__Skeletonema_menzellii
+744f6b68e578340f5b05fb1c632ab183d2511d7e	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_eukaryote
+bc301a6358319e82fadc639591c1a02aedc824b8	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__Mamiellales; f__Mamiellaceae; g__Micromonas; s__Micromonas_pusilla
+4198f145623ad8140010dd4136e8ae84fd92c74a	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Apusomonadidae; c__Apusomonadidae; o__Apusomonadidae; f__Apusomonadidae; g__Amastigomonas; s__uncultured_Apusozoa
+431276ea4545e37bea7b8d30f0770c37668c87d6	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	d__Eukaryota
+cb85c2ee03d6229f792aff8e9fd9c525e80347f4	0.0	0.0	0.0	0.0	2.0	0.0	1.0	2.0	d__Eukaryota
+98f43219769c63d3025edb47c2257b66fc1b9340	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Pyxidinopsis; s__Pyxidinopsis_psilata
+02dd848b7ea423fb6b764dd64b50d8e0caabd42b	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	d__Eukaryota
+3aed0f9db2d2cd73855186cf7850b0531ec95865	0.0	0.0	0.0	0.0	1.0	0.0	0.0	5.0	d__Eukaryota; p__Holozoa
+ffc93b0bde99d6b9608d53c67708a43cdca2199d	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales
+a7a22385fbc7e10dee6be9096f3ee16277342108	0.0	0.0	1.0	0.0	3.0	2.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Trebouxiophyceae; o__Trebouxiophyceae; f__Trebouxiophyceae; g__Trebouxiophyceae
+1f7272d1ad1fecc1ed7b129cea6d1c364a32cd1a	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	d__Eukaryota
+3844909376500267e7ba64b14f72a1c5a7396c87	0.0	0.0	3.0	0.0	0.0	9.0	2.0	24.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema; s__Skeletonema_menzellii
+ed0b7af4a2e4aa8c0ab09450d9aa2c4fdf48dd16	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	d__Eukaryota; p__Chlorophyta
+79ddc4687eceffb84e0a0c161d3fd2c2afbb0f23	0.0	0.0	0.0	0.0	0.0	3.0	0.0	1.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Imbricatea; f__Euglyphida; g__Paulinella; s__uncultured_eukaryote
+1d85f70b8eb81b40d6fb4c58afce916ae8f3451a	0.0	0.0	0.0	0.0	0.0	2.0	0.0	1.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+ae9238d72891622a96a947b83c1704acba51d1d1	0.0	0.0	0.0	0.0	0.0	2.0	0.0	2.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida
+516c947b3bf4c5d91fd72aee102cb0ef44ba24bb	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+d70c20fb16d46be43102775e385a8e4459201866	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	d__Eukaryota
+c128199515d4e83c5168fc3738dae9ee5147751e	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+59acf69d56ced08f853e05f198c4c6ae8072ac54	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae; o__uncultured; f__uncultured; g__uncultured; s__uncultured_eukaryote
+3a839ae51ddc1097986a39b0f3edffad46c52062	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae
+53d6de6faf8021bdb44ef222bfb3c21a474a3b97	0.0	0.0	0.0	0.0	0.0	0.0	2.0	1.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida; f__Acanthoecidae; g__Acanthoecidae
+143b35d4173747a5ea80cfdfe4154f571ae3eb92	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Thaumatomonadida; f__Thaumatomonadida; g__Peregriniidae; s__Esquamula_lacrimiformis
+d722ff9dec0e80e1f2220d578dca01442f6ac88a	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	d__Eukaryota; p__Retaria
+fa6e06c07291d966a82ede2fe4c21ae1c6ce940e	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+5e0bb62db542d6527b78635b599dd7b8efdc8e29	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+eded1698904bf939058821074e61030e9ae5e90b	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+1bdc252b011ba0ac50984ffd55ef82c799ef1589	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+ab68cde6fb35920951de024a94af5d6c241f929b	0.0	2.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Cercozoa
+672a8a40e20e992a0ce219fa9dad089f445a39ca	1.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	d__Eukaryota; p__Ciliophora
+2b061f94a6e6907184a57244a6f2a691c990dce9	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+e25c7114716400ee063c2dabbf0e965f544f9df4	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	d__Eukaryota
+914713f1dcf03f4f3f2c648134519ba2284b69af	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+f07be48111c8a74cb802ee09f820c58420f060e9	0.0	0.0	0.0	0.0	0.0	1.0	0.0	5.0	d__Eukaryota; p__Cercozoa
+8c20e6e27b2d538ea5bd7369b40b98864bbf696a	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta; f__Chlorarachniophyta; g__Minorisa; s__Minorisa_sp.
+aaa9da8f28b67efc7d7959c15bcd58877b8b03b8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Ebriacea; f__Ebriacea; g__Ebria
+bc4900603b03e2687f71ff27413508ffc1f3dd53	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Hartaetosiga
+e1d9b2f9aad40868aa63d8b740815a2cd2acdafb	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__BB01-173; s__uncultured_eukaryote
+02db58eca0197c0056b3793ddb89e96d10732604	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured
+76810b5aeb00ae1bc3b2b58f8f204fd1e9c8e665	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	d__Eukaryota; p__Holozoa
+7b2a821970719df1fb7572af5de6191014e96d3f	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+65f9406b2c4ac1c978390a4fb692ef8cb12105b7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7.0	d__Eukaryota; p__Chlorophyta
+62d85b92fad7ae9d19833650be3e046232b15864	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+6277a926e626c5e565356d8f96381721ec85e048	0.0	1.0	0.0	0.0	0.0	0.0	0.0	3.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+00643ccc41bf79a6b485cb087047c6398ffbfde7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+14d0e97a56671180046d7f960a5fecf53d59f0b9	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota
+682136820dce61263a69c01ee39c54d7fc173591	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+712739541225ddcfa4c98e532396053934fb47ca	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALV-2_Guillou_II.5
+69d614a1db7eff9e4129735cf13135b5617869b9	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales; f__Peridiniales; g__Protoperidinium; s__uncultured_eukaryote
+4cb833a5842ecf24b90d0f9cee65abd89cb055a3	2.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	d__Eukaryota
+038b3dd6543bf36a1ded2cf4d8de5a1b62fa946e	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodinium_clade; g__Erythropsidinium; s__Erythropsidinium_agile
+2991009f94f6964f42f90a7990db8be336377a9c	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Retaria
+33295175395ff192fe200cb8ca218aa975afdbe5	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Apicomplexa; c__Conoidasida; o__Coccidia; f__Eimeriorina
+1b76f79f639903a40e14380037f80c49caadd9fc	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+42d88c8cee11c68eeca269fcb129c3abf0ef9377	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+14c09a95d6bc82bd2db32ca058677606d4f07b77	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+5324908dca5b72604dda512487aa9a8b2aa7e1d6	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+5ead170f02a643913edf9f963f06bc8a46747685	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros
+b5ddb16cae2907c085057ff83f5f49c222578300	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+0e15291de02f2d9c04ed26ee076c997cc5e19afc	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+3d11489f79594bbda83f6e9e9069a32840d21938	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+d997cef33422252de07526a7e96b405c90f78e10	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Hartaetosiga
+58af0efa35aa50aa3bdc840e59831da4de3e8ede	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__Amoebophrya_sp.
+353f703d46f7b7c9e01be5bbeeb6f1dbb2f91571	2.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Copepoda; g__Calanus; s__Calanus
+760ce499d7d192c37612ddd02b8f2a8b8fd8e7fe	4.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Novel_Clade_3; f__Novel_Clade_3; g__Novel_Clade_3; s__uncultured_Cercozoa
+06987773cd7f0a0511577b39753ca68b96d4e019	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+45ed094b85c4dc3daa0648268bbd7c7e0ffea553	1.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Copepoda; g__Oithona; s__Oithona
+01c89d1e44280d373b5a59497dd0efd83de73d30	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+85585c25d3d4a80ad4644d67a0645d074e8e0ff5	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__uncultured_marine
+1aa4ac034cbb53fa415bb60827e6151e1914fa85	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae; g__Holosticha; s__uncultured_eukaryote
+246cac339cf75b668343f8abba84ce93c8454f78	1.0	1.0	0.0	0.0	0.0	0.0	0.0	3.0	d__Eukaryota; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrales; f__Chlorodendrales; g__Tetraselmis; s__Tetraselmis_sp.
+abd90379222a6661c866f413d083a01c31ba4705	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora
+76fb4dc24d3a8b52863c1021e482182e613829df	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Retaria
+01bf0232fe74ccd71f443142f228d9c037192287	1.0	0.0	5.0	23.0	5.0	0.0	0.0	0.0	d__Eukaryota; p__Picozoa; c__Picomonadida
+128d8cdc5c25995b59b6dfe664443c083793af72	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida; f__Stephanoecidae; g__Calliacantha; s__Calliacantha_natans
+2184f4deb969c03e3304b4fc3059b986640f3df8	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Apusomonadidae; c__Apusomonadidae; o__Apusomonadidae; f__Apusomonadidae; g__Amastigomonas; s__uncultured_Apusozoa
+0162e1f9056b5d974f82ae09a6d9d8913394565d	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Coscinodiscophytina; g__Actinocyclus
+a121c95ce7d963c0b6896ac0eb9acc1a4420ab32	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Apusomonadidae; c__Apusomonadidae; o__Apusomonadidae; f__Apusomonadidae; g__Apusomonadidae
+43ff22f78347e00216edc2764dfd711882df8890	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Fungi; c__Fungi; o__Dikarya(Ascomycota); f__Sordariomycetes
+06fff30dba733cb11c0b0c7449fdc8fa3f1acc21	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Vampyrellidae; o__Vampyrellidae; f__Vampyrellidae; g__uncultured; s__uncultured_freshwater
+4723139dd662917b2b1a24451241d87d5e39d80d	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cnidaria; c__Hydrozoa; o__Leptothecata; f__Leptothecata; g__Leptothecata; s__Orthopyxis_sargassicola
+286b8c8db8a16035fe482430de1cec6bc7393e21	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__Amoebophrya_sp.
+02db9326fee4bcf360597663da6fce3c7960f782	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Retaria; c__RAD_A; o__RAD_A; f__RAD_A; g__RAD_A; s__Porites_astreoides
+5378bd3df29457bca314ff742060220dc67d0343	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Cryothecomonas
+7192986cf1903f8b4fc158a6444a5f2f8f4f6671	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+de1a58faa6ce5a46100db66cb459da8085154aa9	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-7; c__MAST-7D; o__MAST-7D; f__MAST-7D; g__MAST-7D; s__uncultured_eukaryote
+8916e1d3839a28e28200611c8b3a57539fc38fcf	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__MAST-7; c__MAST-7; o__MAST-7; f__MAST-7; g__MAST-7; s__uncultured_eukaryote
+9ff37f0aa64c7f20990e5be4973750e755f8bc94	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+2f358461a94a1d4e9eda60541e10744d93b7fe02	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+3873a3f8aef8130897dd6a3142e5d6475a1f4446	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__DSGM-81; f__DSGM-81; g__DSGM-81
+6a98886fd7acccbb79549db9128c7a823862c905	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	d__Eukaryota; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Labyrinthulomycetes; g__Labyrinthulomycetes; s__Stellarchytrium_dubum
+ac1f2e2172cf0ee07f8df63f91ca577852beeb67	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+07271b2856bfcc81455127ddb3734f1781395ac1	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota
+268cae4da4af71a80b62142cbb999c4d6ad7e730	0.0	2.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales; g__OLI51059; s__uncultured_eukaryote
+4b45cf5cbef1f5ed7ca7e8031fb9efebaf65df26	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae
+61869105a5c09a4426616017d4bb5efed6068329	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+c077a1e5eba307cc78a95e6b4c25429524cf7115	0.0	3.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida
+23a8837b864a13e7fcdf11a40723ca5dc9bf3338	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Labyrinthulomycetes; c__uncultured; o__uncultured; f__uncultured; g__uncultured; s__uncultured_eukaryote
+687e4367073f168a6893d9e25e3a50eafcfe2363	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Pyrenomonadaceae; g__Rhinomonas; s__Rhinomonas_pauca
+061ff8016cabb5ca38eef4f953b570bdf811b197	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota
+5b1aef63221ab64d94a5bea6ec898788a5b36041	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ochrophyta; c__Chrysophyceae
+81ce4339f2848b08002cf5502019cc3d3607cf9d	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Oligotrichea; o__Choreotrichida; f__Choreotrichia; g__Tintinnidium; s__Tintinnidium_cf.
+3602a4dca23e2616e03ad8fc56b06fcd24f932bf	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__Dolichomastigales; f__Dolichomastigaceae; g__Crustomastix
+3892d884059d4a069f2d416c35ba28ae80bf103f	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Pseudo-nitzschia; s__uncultured_stramenopile
+2ce8e0e0b61c4362a4122d6ad12730ecdad3a825	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+17c8851e8799bbc06fc23907ddc52c29fb07d2f9	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+06c8107b997e2e91576587b6d43bf2770fea3011	0.0	2.0	0.0	2.0	3.0	0.0	0.0	0.0	d__Eukaryota; p__Haptophyta; c__Prymnesiophyceae; o__Prymnesiales
+04f2e24cfa6e484eac863373e22868658f130c1b	0.0	3.0	1.0	1.0	4.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta; f__Chlorarachniophyta; g__uncultured; s__uncultured_chlorarachniophyte
+3567739027e643dfbb965abd2085521572ba68ff	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta
+bb32e1abde37c7b4d3f1438910ba37ec4e6f9b54	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Cercozoa
+08852db99a6f44ee78f6f077fc3546b17fe353d4	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+28da6f4236f7670b77ba3ceaf1fe4aef758f3479	0.0	1.0	0.0	0.0	0.0	2.0	0.0	0.0	d__Eukaryota
+4f0ff00fa3c628d1fdf857df4731947a0d41de77	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__Amoebophrya_sp.
+5222844c7702b5a9540392fedc598da6935db1ee	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Labyrinthulomycetes; c__uncultured; o__uncultured; f__uncultured; g__uncultured; s__uncultured_stramenopile
+064fd6c0f4573cdcc18448b236fd529314aa205b	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_eukaryote
+40afeb495c562f30200b70fb029334bf57bd118b	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Thaumatomonadida; f__Thaumatomonadida; g__D2P04A09; s__uncultured_Rhizaria
+20f6993f034d693f02be1947a10ae1491eea7944	0.0	2.0	0.0	0.0	1.0	0.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida; f__Stephanoecidae; g__Diaphanoeca
+1ff53f29b703f829faa5ebed1ba445109b6e8391	0.0	1.0	0.0	2.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea
+5adc13fffa05f2b58ec748ac81e73104989a1f8f	0.0	2.0	0.0	1.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Stramenopiles; c__Oomycota; o__Saprolegniales; f__Saprolegniales
+4629431d7ec3729c8ec4521cb024293ef6ff1554	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__Dolichomastigales; f__Dolichomastigaceae; g__Crustomastix
+acbdb23483e88377819b71658678d6d201b6fc09	0.0	2.0	0.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Spirotrichea; o__Hypotrichia; f__Holostichidae
+3f3efc4028378bc9b1d9bbad14bb13ac7199fa94	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+0b56abf1c31e8f6ac958b65b0a153046da92e8c8	0.0	1.0	0.0	2.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Cryothecomonas
+46cfd9cf5715a6759a70c569140b2740e9913b2c	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Mollusca; g__Mytilus; s__Mytilus
+7f8eaf611a6bf586d367cd281fe0f45758dc3d07	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__uncultured_MALV-2_Guillou_II.5
+5db189f34bca96f8a027065b7549e9093bbb97fc	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+7c36d0a78ff6530503d1bcee5f42708a408d5f18	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya; s__Amoebophrya_sp.
+7a3d84184935db677304c18b113c3e3098f6f564	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Chlorophyta; c__Mamiellophyceae; o__Dolichomastigales; f__Dolichomastigaceae; g__Dolichomastix; s__Dolichomastix_tenuilepis
+1028f24939cc3671c1e8b75d69ac34aa64544045	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Philaster; s__Philaster_sinensis
+a7e5f836bb043c9252b97e27bc596f5472c6a2f0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	d__Eukaryota; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__NAMAKO-15; s__uncultured_marine
+00507e0f3caa6d3fad90e3a51bb340bcf26a3768	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+225d341f3eb2fcdecb9b632a0b0005273375da8b	0.0	0.0	1.0	0.0	0.0	7.0	2.0	8.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema; s__Skeletonema_menzellii
+46e95de8340414af3caf96641e0313c601835e73	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_eukaryote
+e59064f360134e84e7f3b30e71d805a2bd0dfe38	0.0	0.0	1.0	0.0	0.0	2.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema; s__Skeletonema_menzellii
+6a960b6beacf65447cad19653a1d46fbe4447c14	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Amoebophrya
+3d491e2e9ce4eefbe328844f2feff4f043a8f56a	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	d__Eukaryota; p__Cercozoa; c__Chlorarachniophyta; o__Chlorarachniophyta
+39b416f5935ea64420aaf98995436def6ce28bcb	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Codosigidae; f__Codosigidae; g__Lagenoeca; s__uncultured_eukaryote
+42cfa74326b13e2fab81dff9cceea057b2422b24	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	d__Eukaryota
+c3d3d9456837e77383a6c4370f613e57d9468130	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	d__Eukaryota; p__Ochrophyta; c__Eustigmatophyceae; o__Eustigmatales; f__Eustigmatales; g__uncultured; s__uncultured_eukaryote
+864a56d3492e20997bb5645cfb46650a51b35de7	0.0	0.0	0.0	0.0	1.0	1.0	1.0	0.0	d__Eukaryota; p__Holozoa; c__Choanoflagellida; o__Acanthoecida
+49cae5ed99d296ee44a80284c72dc9c6aee64328	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	d__Eukaryota; p__Stramenopiles; c__Stramenopiles; o__Stramenopiles; f__Stramenopiles; g__Pirsonia; s__Pirsonia_verrucosa
+03cbf7da6b3267f77c967fd338e5ca80e0ff262a	0.0	0.0	0.0	0.0	1.0	2.0	0.0	0.0	d__Eukaryota; p__Labyrinthulomycetes
+1ce867028adbd9106b2a8637d5280fd52e5b28f2	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	d__Eukaryota; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2
+3e7a04491d6b6ead58f5a2b2db9306fd57a04239	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	d__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema; s__Skeletonema_menzellii
+0e2511fa4600ec71bf7f0b886b40c044d2afec15	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Chroomonadaceae; g__Hemiselmis; s__Hemiselmis_rufescens
+31e0e279a463e7057276ecbe3ef626a35a50c296	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Ebriacea; f__Ebriacea; g__Ebria
+6b3348ffabff6f3248ae0c84e7f6da9a4433b54c	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Ebriacea; f__Ebriacea; g__Ebria; s__uncultured_Cercozoa
+5a98aea97fe0a5f4b40d4a340e8d8f28900879e6	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	d__Eukaryota; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+234b8e6ee56e1fa08e4b097f6c12a39bb9b3e34e	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_III; g__Syndiniales_Group_III; s__uncultured_Rhizaria
+372137b66c3725de3c2c25cd25efdd2ecf07ef0e	0.0	0.0	0.0	0.0	0.0	0.0	1.0	2.0	d__Eukaryota
+7e48a878a5fa13091361b09cec7c13ce78707194	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+03667e155c79a99af557ff7f8f4e0c3180badd58	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota
+969bb3093528b816cc5d701a7b4cb1edfdd4bcd9	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+57c0bbc0d743cbe48b7e3aa62322b3401cf73ccd	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+357c69f754d6f72ec8510794f0553d92635d68d2	0.0	0.0	0.0	0.0	0.0	0.0	2.0	1.0	d__Eukaryota; p__Labyrinthulomycetes; c__uncultured; o__uncultured; f__uncultured; g__uncultured; s__uncultured_eukaryote
+037d3fa41f965cc37dc7bf3329714040a83bf981	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota
+be361ab9af5abdc756ab95791d52a285bbdc8f46	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+062ad59e55d87dbfa589bef1df54dba40e76afad	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Ciliophora; c__Intramacronucleata_Oligotrichea; o__Choreotrichida; f__Choreotrichia; g__Tintinnidium; s__Tintinnidium_cf.
+37d9f692bfca006250dd0d7a4189fc2cf4940b77	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	d__Eukaryota; p__Dinoflagellata; c__Dinophyceae
+22b2c2ff4d7cae2cd88e3a20e738f8550c8b87a7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	d__Eukaryota; p__Metazoa; c__Metazoa; o__Metazoa; f__Eumetazoa_Copepoda; g__Oithona; s__Oithona
+74a0d44a0c8780cd21e6e30c6925412039ca938f	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Chlorophyta
+2f0e94278c6300b196995b18836186898e67eaa9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	d__Eukaryota
+290d17b4eefc78e3f1a693c68b86d63201887a4c	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	d__Eukaryota; p__Cryptophyta; c__Cryptophyceae; o__Pyrenomonadales; f__Geminigeraceae

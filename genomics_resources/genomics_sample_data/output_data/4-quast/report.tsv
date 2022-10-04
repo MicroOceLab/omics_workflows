@@ -1,0 +1,23 @@
+Assembly	default	careful	isolate
+# contigs (>= 0 bp)	1612	1634	1745
+# contigs (>= 1000 bp)	45	44	56
+# contigs (>= 5000 bp)	39	38	50
+# contigs (>= 10000 bp)	36	36	46
+# contigs (>= 25000 bp)	31	31	40
+# contigs (>= 50000 bp)	26	26	32
+Total length (>= 0 bp)	6705871	6706302	6720888
+Total length (>= 1000 bp)	6238412	6236587	6237702
+Total length (>= 5000 bp)	6230662	6224156	6228427
+Total length (>= 10000 bp)	6213153	6211999	6202449
+Total length (>= 25000 bp)	6142203	6139726	6121467
+Total length (>= 50000 bp)	5942193	5940842	5837484
+# contigs	106	103	118
+Largest contig	625434	625434	625434
+Total length	6274974	6271813	6274871
+GC (%)	60.61	60.62	60.62
+N50	322676	316311	241733
+N90	73547	71840	64008
+auN	326209.3	319772.8	263459.7
+L50	7	8	9
+L90	22	22	29
+# N's per 100 kbp	13.23	13.03	11.63

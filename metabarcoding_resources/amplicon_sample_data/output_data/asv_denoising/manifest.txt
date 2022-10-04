@@ -1,0 +1,10 @@
+sampleID	forward-absolute-filepath	reverse-absolute-filepath
+SRR12442322	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442322_1.fastq.gz	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442322_2.fastq.gz
+SRR12442323	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442323_1.fastq.gz	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442323_2.fastq.gz
+SRR12442324	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442324_1.fastq.gz	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442324_2.fastq.gz
+SRR12442325	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442325_1.fastq.gz	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442325_2.fastq.gz
+SRR12442331	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442331_1.fastq.gz	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442331_2.fastq.gz
+SRR12442342	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442342_1.fastq.gz	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442342_2.fastq.gz
+SRR12442353	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442353_1.fastq.gz	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442353_2.fastq.gz
+SRR12442354	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442354_1.fastq.gz	/home/bdhingpit/molab_github_trial/metabarcoding_resources/denoising_demo_folder/0-raw-sequences/SRR12442354_2.fastq.gz
+

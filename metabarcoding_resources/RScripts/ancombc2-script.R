@@ -327,7 +327,7 @@ fig_pair <- ggplot(summary_df, aes(x=group, y=taxon, fill=value)) +
   #   size=2
   # )
 
-# Shpw [;pt]
+# Show plot
 fig_pair
 
 # Uncomment code below if you want to save the plot
